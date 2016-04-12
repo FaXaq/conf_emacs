@@ -1,0 +1,14 @@
+j cr
+pwd
+j toto
+alias j autojump
+j
+j yea
+j TATA
+j Cri
+autojump cri
+j Test
+coucou
+cd ~/goprojects/
+ls
+emacs toto

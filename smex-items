@@ -1,0 +1,49 @@
+
+;; ----- smex-history -----
+(
+ ag
+ list-packages
+ zenity-cp-insert-color-at-point
+ hackernews
+ delete-file
+ rename-file
+ recover-file
+)
+
+;; ----- smex-data -----
+(
+ (mkdir . 7)
+ (list-packages . 17)
+ (auto-complete-mode . 2)
+ (flymake-mode . 2)
+ (markdown-preview . 1)
+ (rename-file . 4)
+ (eshell-mode . 1)
+ (dired . 1)
+ (erc . 1)
+ (eww . 3)
+ (go-mode . 2)
+ (ido-mode . 2)
+ (twit . 4)
+ (twittering-mode . 1)
+ (twittering-start . 1)
+ (forecast . 15)
+ (forecast-mode . 1)
+ (lisp-mode . 1)
+ (forecast-today . 1)
+ (forecast-quit . 1)
+ (forecast-hourly . 1)
+ (forecast-refresh . 1)
+ (server-force-delete . 1)
+ (hackernews . 3)
+ (copy-file . 1)
+ (recover-file . 2)
+ (ag . 15)
+ (delete-file . 5)
+ (compile . 1)
+ (nxml-mode . 1)
+ (hl-line-mode . 1)
+ (global-hl-line-mode . 1)
+ (hl-tags-mode . 5)
+ (zenity-cp-insert-color-at-point . 1)
+)

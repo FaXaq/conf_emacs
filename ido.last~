@@ -1,0 +1,392 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/marin/Modeler/work/TestCriCleanUp/templates/clientSpecific/" . "client.bootstrap/")
+ ("/home/marin/Modeler/work/TestCriCleanUp/templates/" . "clientSpecific/")
+ ("/home/marin/Modeler/work/TestCriCleanUp/" . "templates/")
+ ("/home/marin/Documents/rendu/3AIT/Exercice/" . "1/")
+ ("/home/marin/Documents/rendu/3AIT/" . "Exercice/")
+ ("/home/marin/Documents/rendu/" . "3AIT/")
+ ("/home/marin/Modeler/work/Eram/templates/clientSpecific/" . "client.bootstrap/")
+ ("/home/marin/Modeler/work/Eram/templates/plugins/kaava/scripts/js/" . "modelets/")
+ ("/home/marin/Modeler/work/Eram/templates/plugins/kaava/scripts/" . "js/")
+ ("/home/marin/Modeler/work/Eram/templates/plugins/kaava/" . "scripts/")
+ ("/home/marin/Modeler/work/Eram/templates/plugins/" . "kaava/")
+ ("/home/marin/Modeler/work/Eram/templates/" . "plugins/")
+ ("/home/marin/Modeler/work/Eram/" . "templates/")
+ ("/home/marin/Téléchargements/" . "MGT/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/criteo/org/apache/" . "jsp/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/criteo/org/" . "apache/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/criteo/" . "org/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/Pickup/org/apache/" . "jsp/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/Pickup/org/" . "apache/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/Pickup/" . "org/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/NewCri/org/apache/" . "jsp/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/NewCri/org/" . "apache/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/NewCri/" . "org/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/Eram/org/apache/" . "jsp/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/Eram/org/" . "apache/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/Eram/" . "org/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/" . "Pickup/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/" . "localhost/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/" . "Catalina/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/" . "work/")
+ ("/home/marin/Modeler/work/criteo/build/tas/src/com/enioka/server/" . "session/")
+ ("/home/marin/Modeler/work/criteo/build/tas/src/com/enioka/" . "server/")
+ ("/home/marin/Modeler/work/criteo/build/tas/src/com/" . "enioka/")
+ ("/home/marin/Modeler/work/criteo/build/tas/src/" . "com/")
+ ("/home/marin/Modeler/work/criteo/build/tas/" . "src/")
+ ("/home/marin/Modeler/work/criteo/build/" . "tas/")
+ ("/home/marin/Modeler/work/criteo/" . "build/")
+ ("/home/marin/Modeler/modeler-deploy/" . "html/")
+ ("/home/marin/Documents/enioka/B.Sc/3AIT - Artificial Intelligence - Programmation Fonctionnelle/" . "labs/")
+ ("/home/marin/Documents/enioka/B.Sc/" . "3AIT - Artificial Intelligence - Programmation Fonctionnelle/")
+ ("/home/marin/Documents/enioka/" . "B.Sc/")
+ ("/home/marin/Documents/Projects/HowTo/app/views/" . "tutorials/")
+ ("/home/marin/Documents/Projects/HowTo/app/" . "controllers/")
+ ("/home/marin/Documents/Projects/HowTo/" . "app/")
+ ("/home/marin/Documents/JSFight/public/dist/" . "js/")
+ ("/home/marin/Documents/JSFight/public/src/js/" . "services/")
+ ("/home/marin/Documents/JSFight/public/src/" . "js/")
+ ("/home/marin/Documents/JSFight/public/" . "src/")
+ ("/home/marin/Documents/JSFight/app/" . "models/")
+ ("/home/marin/Documents/JSFight/" . "app/")
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/js/tests/" . "css/")
+ ("/home/marin/test/plugins/kaava/scripts/js/tests/" . "css/")
+ ("/home/marin/test/plugins/kaava/scripts/js/" . "modelets/")
+ ("/home/marin/test/plugins/kaava/scripts/" . "js/")
+ ("/home/marin/test/plugins/kaava/" . "scripts/")
+ ("/home/marin/test/plugins/" . "kaava/")
+ ("/home/marin/test/" . "plugins/")
+ ("/home/marin/Documents/Projects/JSFight/public/views/" . "auth/")
+ ("/home/marin/Documents/Projects/JSFight/public/dist/" . "js/")
+ ("/home/marin/Documents/Projects/JSFight/public/src/js/" . "controllers/")
+ ("/home/marin/Documents/Projects/JSFight/public/src/" . "js/")
+ ("/home/marin/Documents/Projects/JSFight/public/" . "views/")
+ ("/home/marin/Documents/Projects/JSFight/app/" . "routes/")
+ ("/home/marin/Documents/Projects/JSFight/" . "app/")
+ ("/home/marin/Documents/Projects/SVGLib/" . "ressources/")
+ ("/home/marin/Modeler/work/Cri/templates/domains/" . "domains.bootstrap/")
+ ("/home/marin/Modeler/work/Dev/templates/plugins/kaava/scripts/js/" . "modelets/")
+ ("/home/marin/Modeler/work/Dev/templates/plugins/kaava/scripts/" . "js/")
+ ("/home/marin/Modeler/work/Dev/templates/plugins/kaava/" . "scripts/")
+ ("/home/marin/Modeler/work/Dev/templates/plugins/" . "kaava/")
+ ("/home/marin/Modeler/work/Dev/templates/clientSpecific/" . "client.bootstrap/")
+ ("/home/marin/tmp/" . "test_gojs/")
+ ("/home/marin/workbench/plugins/kaava/scripts/js/tests/" . "src/")
+ ("/home/marin/workbench/plugins/kaava/scripts/js/" . "tests/")
+ ("/home/marin/workbench/plugins/kaava/scripts/" . "js/")
+ ("/home/marin/workbench/plugins/kaava/" . "scripts/")
+ ("/home/marin/workbench/plugins/" . "kaava/")
+ ("/home/marin/workbench/" . "plugins/")
+ ("/home/marin/tototo/" . "toto/")
+ ("/home/marin/tothzeiuzbea/" . "zoaziudza/")
+ ("/home/marin/Modeler/plugins/kaava/scripts/js/tests/" . "src/")
+ ("/home/marin/Modeler/plugins/kaava/scripts/js/" . "modelets/")
+ ("/home/marin/Modeler/plugins/kaava/scripts/" . "js/")
+ ("/home/marin/Modeler/plugins/kaava/" . "scripts/")
+ ("/home/marin/Modeler/plugins/" . "kaava/")
+ ("/home/marin/Modeler/work/Cri/templates/rootDomain/" . "config/")
+ ("/home/marin/Modeler/work/Dev/templates/domains/" . "domains.bootstrap/")
+ ("/home/marin/Modeler/work/Dev/templates/" . "plugins/")
+ ("/home/marin/Modeler/work/Dev/build/" . "tas/")
+ ("/home/marin/Modeler/work/Dev/" . "templates/")
+ ("/home/marin/Documents/Esport/" . "communication.md/")
+ ("/home/marin/Documents/Projects/" . "HowTo/")
+ ("/home/marin/Documents/" . "enioka/")
+ ("/home/marin/Modeler/work/Cri/templates/clientSpecific/" . "client.bootstrap/")
+ ("/" . "home/")
+ ("/home/marin/Modeler/work/Pickup/templates/clientSpecific/" . "client.bootstrap/")
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/js/" . "base/")
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/" . "js/")
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/kaava/" . "scripts/")
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/" . "kaava/")
+ ("/home/marin/Modeler/work/Pickup/templates/" . "clientSpecific/")
+ ("/home/marin/Modeler/work/Pickup/" . "templates/")
+ ("/home/marin/Modeler/work/Cri/templates/plugins/kaava/scripts/js/" . "modelets/")
+ ("/home/marin/Modeler/work/Cri/templates/plugins/kaava/scripts/" . "js/")
+ ("/home/" . "marin/")
+ ("/home/marin/" . "Modeler/")
+ ("/home/marin/Modeler/work/Cri/templates/plugins/ModelerCLI/" . "scripts/")
+ ("/home/marin/Modeler/work/Cri/templates/plugins/kaava/" . "scripts/")
+ ("/home/marin/Modeler/work/Cri/templates/plugins/" . "kaava/")
+ ("/home/marin/Modeler/work/Cri/templates/" . "clientSpecific/")
+ ("/home/marin/Modeler/work/Cri/" . "templates/")
+ ("/home/marin/Modeler/work/" . "TestCriCleanUp/")
+ ("/home/marin/Modeler/" . "work/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/marin/Modeler/work/TestCriCleanUp/templates/clientSpecific/client.bootstrap/"
+ "/home/marin/Modeler/work/Pickup/templates/clientSpecific/client.bootstrap/"
+ "/home/marin/tmp/"
+ "/home/marin/Modeler/modeler-deploy/"
+ "/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/js/base/"
+ "/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/js/modelets/"
+ "/home/marin/Modeler/work/Eram/templates/plugins/kaava/scripts/js/modelets/"
+ "/home/marin/Modeler/work/Eram/templates/plugins/kaava/scripts/js/base/"
+ "/home/marin/Modeler/work/Eram/templates/clientSpecific/client.bootstrap/"
+ "/home/marin/Modeler/work/Cri/templates/clientSpecific/client.bootstrap/"
+ "/home/marin/Documents/rendu/3AIT/Exercice/1/"
+ "/home/marin/Documents/enioka/B.Sc/3AIT - Artificial Intelligence - Programmation Fonctionnelle/labs/"
+ "/home/marin/Documents/rendu/3AIT/Exercice/2/"
+ "/home/marin/"
+ "/home/marin/Modeler/work/Cri/templates/plugins/kaava/scripts/js/modelets/"
+ "/home/marin/Modeler/work/Cri/templates/plugins/kaava/scripts/js/base/"
+ "/home/marin/Modeler/work/Eram/templates/plugins/kaava/"
+ "/home/marin/Téléchargements/"
+ "/home/marin/Documents/enioka/B.Sc/3MGT - IT Management 3 - Economics and IT Business Strategy/"
+ "/home/marin/Téléchargements/MGT/"
+ "/home/marin/Documents/Projects/HowTo/app/controllers/"
+ "/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/"
+ "/home/marin/Modeler/work/criteo/build/tas/src/com/enioka/server/"
+ "/home/marin/Modeler/work/criteo/build/tas/src/com/enioka/server/session/"
+ "/dev/"
+ "/home/marin/.emacs.d/"
+ "/home/marin/quicklisp/"
+ "/home/marin/Documents/Projects/HowTo/app/views/tutorials/"
+ "/home/marin/Documents/Projects/HowTo/config/"
+ "/home/marin/Documents/Projects/HowTo/app/models/"
+ "/home/marin/Documents/JSFight/app/models/"
+ "/home/marin/Documents/JSFight/"
+ "/home/marin/Documents/JSFight/public/src/js/services/"
+ "/home/marin/Documents/JSFight/public/src/js/"
+ "/home/marin/Documents/JSFight/public/src/js/controllers/"
+ "/home/marin/Documents/JSFight/app/routes/"
+ "/home/marin/Documents/JSFight/app/config/"
+ "/home/marin/Documents/JSFight/public/src/js/lib/"
+ "/home/marin/Documents/Projects/JSFight/app/routes/"
+ "/home/marin/Documents/Projects/JSFight/app/models/"
+ "/home/marin/Documents/Projects/JSFight/"
+ "/home/marin/Documents/Projects/JSFight/app/config/"
+ "/home/marin/Documents/Projects/JSFight/public/src/js/controllers/"
+ "/home/marin/Documents/Projects/JSFight/public/src/js/services/"
+ "/home/marin/Documents/Projects/JSFight/public/src/js/"
+ "/home/marin/Documents/Projects/JSFight/public/views/auth/"
+ "/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/js/tests/css/"
+ "/home/marin/test/plugins/kaava/scripts/js/modelets/"
+ "/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/css/"
+ "/home/marin/test/plugins/kaava/scripts/css/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "8_2_1client_templates.xml"
+ "8_2_2client_components.xml"
+ "toto.xml"
+ "modeler-deploy.py"
+ "modeler-configuration.py"
+ "8_8_2client_rules_matrix_Flows.xml"
+ "View.js"
+ "MatrixModelet.js"
+ "JqGridModelet.js"
+ "AbstractGraphModelet.js"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/marin/Modeler/work/TestCriCleanUp/templates/clientSpecific/client.bootstrap/" (21906 19975 909663 400000) "8_8_2client_rules_matrix_app.xml" "wiki/" "8_8_2client_rules_graph_ApplicationFlows.xml" "./" "../" "8_3client_domain.xml" ".#8_8_2client_rules_graph_ApplicationFlows.xml" "8_4client_security.xml" "8_2_1client_templates.xml" "8_2_2client_components.xml" "8_8_2client_rules_jqgrid.xml" "8_1client_dictionary.xml" "8_8_1client_gui.xml" "resources/")
+
+ ("/home/marin/Modeler/work/Pickup/templates/clientSpecific/client.bootstrap/" (21905 26815 989246 491000) "wiki/" "8_8_2client_rules_graph.ProcessWithFunction.xml" "8_8_2client_rules_jqgrid_AllApplications.xml" "8_8_2client_rules_graph_AllApplicationsAndModules.xml" "8_8_2client_rules_graph_ApplicationFlows.xml" "./" "8_8_2client_rules_matrix_Flows.xml" "8_8_2client_rules_graph_ApplicationAndItsModules.xml" "../" "8_0client_component_structure.xml" "8_3client_domain.xml" "8_4client_security.xml" "8_2_1client_templates.xml" "8_2_2client_components.xml" "8_8_2client_rules_jqgrid.xml" "8_8_2client_rules_jqgrid_HostnameGrid.xml" "8_1client_dictionary.xml" "8_8_1client_gui.xml" "8_8_2client_rules_graph_Infrastructure.xml")
+
+ ("/home/marin/Modeler/work/TestCriCleanUp/templates/clientSpecific/" (21905 2233 108002 790000) ".gitignore" "client.bootstrap/" "./" "../" ".git/")
+
+ ("/home/marin/tmp/" (21905 17461 343921 244000) "toto.xml" "index.html~" "test.js" "#test.xml#" "test.js~" "toto.py~" "index.html" "toto.py" "./" "../" ".#toto.xml" "toto2.xml" "#toto.xml#" "toto.xml~" "#index.html#")
+
+ ("/home/marin/" (21905 24248 132836 100000) ".gem/" "test/" ".vmware/" ".atom/" ".bash_logout" "Public/" ".mysql_history" ".slime/" "ConfigServiceProvider.php" "Adressage.1.docx" "Images/" "Sublime Text 2/" ".kodi/" ".viminfo" ".visualvm/" "L2 Typology network.docx" ".bashrc" ".java/" "Téléchargements/" "website/" ".gnupg/" ".TelegramDesktop/" ".Skype/" "testGoJS.zip" "AndroidStudioProjects/" ".sbclrc" "L2 Typology network.1.docx" "quicklisp/" "tmp/" ".ICEauthority" ".bashrc~" ".fontconfig/" ".mozilla/" ".ssh/" "Android/" ".local/" ".dbshell" "vmware/" "./" ".racket/" "Modèles/" "rpmbuild/" ".gitconfig" "Adressage.docx" "Vidéos/" "../" ".cache/" ".emacs" ".smartgit/" ".bash_profile" ".i3/" "Documentation Réseau.docx" "Programs/" ".thumbnails/" ".bash_history" "android-development/" "Bureau/" ".emacs.d/" ".fehbg" "Musique/" ".AndroidStudio/" "Notebooks/" ".thunderbird/" "Documents/" ".dbus/" ".pki/" "bin/" ".zshrc" "alien_8.93.tar.gz" ".gksu.lock" "workbench/" "alien/" ".emacs~" ".composer/" ".gimp-2.8/" ".Trash/" ".config/" "quicklisp.lisp" ".gnome/" "#mredauto#1#" "html/" ".mongorc.js" "quicklisp.lisp.asc" ".npm/" ".subversion/" ".gradle/" ".yEd/" ".esd_auth" ".android/" "Modeler/")
+
+ ("/home/marin/Modeler/work/TestCriCleanUp/templates/" (21905 2410 834904 237000) "./" "../" "domains/" "clientSpecific/" "archi/" "SOI/" "rootDomain/" "plugins/")
+
+ ("/home/marin/Modeler/work/TestCriCleanUp/" (21905 2720 702878 814000) "./" "../" "heap/" "build/" "templates/")
+
+ ("/home/marin/Modeler/work/" (21905 1961 875720 607000) "Eram_old/" "Cri/" "./" "Dev/" "../" "Pickup/" "Eram/" "TestCriCleanUp/")
+
+ ("/home/marin/Modeler/modeler-deploy/" (21905 1961 874720 591000) "modeler-configuration.pyc" ".gitignore" "./" "../" "modeler-configuration.py" ".git/" "outdir/" "html/" "modeler-deploy.py")
+
+ ("/home/marin/Modeler/modeler-deploy/html/" (21651 7478 413505 543000) "style.css" "dashboard_header.html" "./" "../" "dashboard_footer.html")
+
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/js/base/" (21901 9793 868892 253000) "Event.js" "PerspectiveManager.js" "Rules.js" "Modelet.js" "Session.js" "AbstractGridModelet.js" "View.js" "Perspective.js" "Inheritance.js" "./" "Utils.js" "ResourceManager.js" "../" "DynamicAttributesManager.js" "ModeletTools.js" "Logger.js" "Dialog.js" "Wrappers.js" "ModeletGUI.js" "AbstractGraphModelet.js" "Modeler.js" "AbstractTreeModelet.js")
+
+ ("/home/marin/Modeler/work/Pickup/templates/clientSpecific/" (21901 9655 977826 226000) ".gitignore" "client.bootstrap/" "./" "../" ".git/")
+
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/js/modelets/" (21901 27624 550096 2000) "HistoryModelet.js" "ViewXMLModelet.js" "ModifyDocumentModelet.js" "LayoutEngine.js" "JsTreeModelet.js" "PortletModelet.js" "go-debug.js" "DocModelet.js" "graph.js" "GraphGoJsModeletResources.js" "NavigationModelet.js" "go.js" "HypothesisModelet.js" "./" "SimpleTreeModelet.js" "PropertiesEditorModelet.js" "SimpleGridModelet.js" "../" "GraphGoJsModelet.js" "JqGridModelet.js" "old_modelet/" "BreadcrumbModelet.js" "MenuBarModelet.js" "MatrixModelet.js" "FileSaver.js" "GraphModelet.js" "ActionModelet.js" "LaunchPanelModelet.js" "EventsListenerXMLModelet.js")
+
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/js/" (21901 9793 892892 612000) "perspectives/" "./" "tests/" "../" "base/" "modelets/")
+
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/" (21901 9793 863892 178000) "css/" "./" "../" "js/")
+
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/kaava/" (21901 9793 935893 256000) "8kaava_maps_view_v2.xml" "test/" "8kaava_jqgrid_view.xml" "8kaava_doc_view.xml" "generate_jsdoc.sh" "8kaava_maps_view.xml" "8kaava_default_view.xml" "8kaava_browse_maps_view.xml" "8kaava_browse_view.xml" "./" "8kaava_components_commander.xml" "9kaava_user_gui.xml" "../" "tools/" "8kaava_graph.xml" "8kaava_welcome_view.xml" "8kaava_main_view.xml" "8kaava_matrix_view.xml" "doc_test/" "8kaava_navigation_view.xml" "jshint/" "7kaava.xml" "include/" "scripts/" "old_viewdef/" "resources/" "7kaava_rules.xml")
+
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/" (21901 9793 935893 256000) "OfficeEnabler/" "kaava/" "workbench-deploy.py" ".gitignore" "./" "../" "ModelerCLI/" ".git/" "Importers/")
+
+ ("/home/marin/Modeler/work/Pickup/templates/" (21901 9795 640918 803000) "./" "../" "domains/" "clientSpecific/" "archi/" "SOI/" "rootDomain/" "plugins/")
+
+ ("/home/marin/Modeler/work/Pickup/" (21901 9837 55539 320000) "./" "../" "heap/" "build/" "templates/")
+
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/css/" (21901 9055 81822 979000) "#webclient.css#" "./" "../" "webclientv2.css" "bootstrap/" "webclient.css")
+
+ ("/home/marin/Documents/Projects/HowTo/app/views/tutorials/" (21868 20541 229620 895000) "edit.html.erb" "index.html.erb" "./" "new.html.erb" "../" "show.html.erb" "_form.html.erb")
+
+ ("/home/marin/quicklisp/" (21869 29670 467564 773000) "asdf.lisp" "client-info.sexp" "slime-helper.el" "local-projects/" "quicklisp/" "tmp/" "./" "../" "setup.lisp" "dists/" "cache/")
+
+ ("/home/marin/.emacs.d/" (21901 8981 847725 710000) "#ido.last#" "ido.last~" "ag.el" "auto-save-list/" "elpa/" "./" "../" "url/" "smex-items" "ac-comphist.dat" "monokai-theme.el" "init.el" "init.el~" "ido.last")
+
+ ("/dev/" (21901 3705 630418 320000) "vga_arbiter" "mem" "null" "port" "zero" "full" "random" "urandom" "kmsg" "tty" "console" "tty0" "vcs" "vcsa" "vcs1" "vcsa1" "tty1" "tty2" "tty3" "tty4" "tty5" "tty6" "tty7" "tty8" "tty9" "tty10" "tty11" "tty12" "tty13" "tty14" "tty15" "tty16" "tty17" "tty18" "tty19" "tty20" "tty21" "tty22" "tty23" "tty24" "tty25" "tty26" "tty27" "tty28" "tty29" "tty30" "tty31" "tty32" "tty33" "tty34" "tty35" "tty36" "tty37" "tty38" "tty39" "tty40" "tty41" "tty42" "tty43" "tty44" "tty45" "tty46" "tty47" "tty48" "tty49" "tty50" "tty51" "tty52" "tty53" "tty54" "tty55" "tty56" "tty57" "tty58" "tty59" "tty60" "tty61" "tty62" "tty63" "cpu/" "snapshot" "autofs" "ptmx" "ttyS1" "ttyS2" "ttyS3" "ttyS0" "raw/" "hpet" "nvram" "hwrng" "usbmon0" "usbmon1" "bus/" "usbmon2" "usbmon3" "usbmon4" "input/" "rtc0" "mapper/" "mcelog" "cpu_dma_latency" "network_latency" "network_throughput" "memory_bandwidth" "sg0" "bsg/" "sda" "sda1" "sda2" "shm/" "pts/" "core" "fd/" "stdin" "stdout" "stderr" "log" "char/" "cdc-wdm0" "cdc-wdm1" "cdc-wdm2" "rtc" "block/" "disk/" "dri/" "fb0" "dm-0" "dm-1" "fedora/" "dm-2" "dm-3" "dm-4" "dm-5" "initctl" "hugepages/" "mqueue/" "lp0" "lp1" "lp2" "lp3" "fuse" "btrfs-control" "loop-control" "net/" "ppp" "uinput" "uhid" "vfio/" "vhci" "vhost-net" "snd/" "mei0" "rfkill" "watchdog" "watchdog0" "tpm0" "ttyACM0" "ttyACM1" "ttyACM2" "media0" "video0" "watchdog1" "kvm" "serial/" "dm-6" "dm-7" "v4l/" "vcs2" "vcsa2" "vcs3" "vcsa3" "vcs4" "vcsa4" "vcs5" "vcsa5" "vcs6" "vcsa6" "vmmon" "vmci" "vsock" "vmnet0" "vmnet1" "vmnet8" "../" "./")
+
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/" (21901 2269 263762 110000) "NewCri/" "criteo.xml" "Eram_old/" "host-manager/" "ROOT/" "Cri/" "POCEram.xml" "modeler-dashboard/" "docs/" "./" "Dev/" "../" "criteo/" "POCEram/" "Pickup/" "manager/" "Cri.xml" "examples/" "NewCri.xml" "Eram/" "Pickup.xml")
+
+ ("/home/marin/Téléchargements/" (21901 2087 769992 897000) "Chuck (1).png" "pourIsabelle.png" "IIT.Flow Map.Chuck.png" "NewCRM.png" "IIT.Flow Map.House.png" "VSphere&VCenter.png" "output_DYuqTs.gif" "IIT.Flow Map.ADFS.png" "CANNAYA_Hari_CV.pdf" "IIT.Flow Map.Interco Tool.png" "IMG_20150607_173911.jpg" "instance_bug_resources_criteo_chrome.zip" "IIT.Flow Map.HOMELAND.png" "test.zip" "profile.jpg" "racket-6.1.1-src.tgz" "friendzone.jpg" "IIT.Flow Map.Homeland_afterHouse.png" "IIT.Flow Map.Dexter SRM.png" "Attestation d'affiliation.pdf" "vSphereClient.png" "IIT.Flow Map.House Analytics.png" "IIT.Flow Map.Vertica_afterHouse.png" "bootstrap-datetimepicker-0.0.11.zip" "modeler-export.svg" "debian-8.1.0-amd64-netinst.iso" "output.zip" "export_Cartographie_692D8B2B4E1EE65672CFDC78B6EF5BEC_Cartographie_.zip" ".~lock.vCenter.doc#" "facture coca .pdf" "bg.jpg" "export_Cartographie_EBA6D2B4E8EA0BEF50A6D1E39E63D1B0_Cartographie_(1).zip" "Game.of.Thrones.S05E06.FASTSUB.VOSTFR.720p.HDTV.x264-KiLLERMiX.zone-telechargement.com.mkv" "IIT.Flow Map.CSI Advertisers_afterHouse.png" "165307_1628313160794_834277_n.jpg" "IIT.Flow Map.NCIS.png" "Cluster.doc" "Pre-BetterLayer.zip" "popom/" "vpn.png" "ArchiDiag.png" "IIT.Flow Map.CSI Publishers.png" "IIT.Flow Map.Dexter CRM.png" "311972_2547240560288_513500264_n.jpg" "maview.xml" "267830_2207946040374_174608_n.jpg" "IIT.Flow Map.New CRM.png" "xampp-linux-x64-5.6.8-0-installer.run" "IIT.Flow Map.Sidetrade.png" "IIT.Flow Map.ADFS_afterHouse.png" "steam-launcher-1.0.0.50-2.noarch.rpm" "VSphereClientCreateDataCenter.png" "yay.png" "YouAreAPirate.jpg" "export_GroupeEram_démélée_12_06_.zip" "1433857681470.jpg" "IIT.Flow Map.DocuSign.png" "IIT.Flow Map.Internal BI.png" "IIT.Flow Map.NCIS BI.png" "SF3_3S_Ryu_Sprite.7z.zip" "House.png" "esxi.png" "11292788_10206716709022171_1046304237_n.jpg" "routeur.jpg" "VCenterinstall.png" "VMware-VMvisor-Installer-5.5.0.update02-2068190.x86_64.iso" "VSphere&Orchestrator.png" "3AIT-TPNote.pdf" "IIT.Flow Map.Vertica.png" "export_Cartographie_AFCF48BFC93FC08AD8B3590F57E7B111_Cartographie_.zip" "unnamed.jpg" "export_GroupeEram_69FDE3CC562EEF0D4653C76D77205E44_GroupeEram_.zip" "173_158034.zip" "technical-model.dot" "kyriba.png" "IIT.Flow Map.Expense Report IS.png" "facture coca 28_05_2015.pdf" "10636338_10205791114927235_5502351069447135946_n.jpg" "Rawr-Im-a-pirate..-Meme-Picture-.jpg" "2015-04 Développeur PHP Symphony.pdf" "3PJT-master.zip" "ReleveIdentiteBancaire.pdf" "1185364_10201759934270238_864495982_n.jpg" "ELMTY-DFM-Dfc_20150519 - PROD.csv" "IIT.Flow Map.New TMS.png" "IIT.Flow Map.Elementary.png" "IIT.Flow Map.Homeland.png" "racket-6.1.1-src-builtpkgs.tgz" "orchestrator.png" "steam_latest.deb" "MGT/" "vCenterok.png" "IIT.Flow Map.AD_afterHouse.png" "output_dyuqts.gif" "vSphere.doc" "microsoft_sql_server_icon.jpg" "3SKey.png" "lispworks-personal-6.1-1.i386.rpm" "winginx-setup.exe" "IIT.Flow Map.AD.png" "export_Cartographie_EBA6D2B4E8EA0BEF50A6D1E39E63D1B0_Cartographie_.zip" "sprites/" "IIT.Flow Map.SAGE.png" "sprites.zip" "ISCSi.png" "IIT.Flow Map.Ad.png" "IIT.Flow Map.XFiles.png" "IIT.Flow Map.NCIS_afterHouse.png" "IIT.Flow Map.DB Clones.png" "IIT.Flow Map.Billing Data Pipeline.png" "IIT.Flow Map.CSI Advertisers.png" "giphy.gif" "export_Cartographie_A40D920B8A2703F06B581FBAB8F1F9EA_Cartographie_.zip" "mgt.zip" "IIT.Flow Map.BDP_afterHouse.png" "export_Cartographie_74DB3C138A057D14B7FBA6F554223144_Cartographie_.zip" "Chuck.png" "export_Cartographie_B48A921A1748015DD69531C6A2970886_Cartographie_.zip" "IIT.Flow Map.DocuSign_afterHouse.png" "export_GroupeEram_2758436CA00D3F0A1208F91B7418CF7B_GroupeEram_.zip" "lwlper-license.sh" "serverWeb.png" "IIT.Flow Map.CHUCK.png" "house-50420045eb829.png" "ELMTY-DFM-IITMaps_20150519 - PROD.csv" ".~lock.Cluster.doc#" "vCenter.doc" "dbServer.jpeg" "../" "./")
+
+ ("/home/marin/Modeler/work/Cri/templates/plugins/kaava/scripts/js/base/" (21901 8965 818485 544000) "Event.js" "PerspectiveManager.js" "Rules.js" "Modelet.js" "Session.js" "AbstractGridModelet.js" "View.js" "Perspective.js" "Inheritance.js" "./" "Utils.js" "ResourceManager.js" "../" "DynamicAttributesManager.js" "ModeletTools.js" "Logger.js" "Dialog.js" "Wrappers.js" "ModeletGUI.js" "AbstractGraphModelet.js" "Modeler.js" "AbstractTreeModelet.js" "#View.js#")
+
+ ("/home/marin/Modeler/work/Cri/templates/plugins/kaava/scripts/js/modelets/" (21901 8965 835485 798000) "HistoryModelet.js" "ViewXMLModelet.js" "ModifyDocumentModelet.js" "LayoutEngine.js" "JsTreeModelet.js" "PortletModelet.js" "go-debug.js" "DocModelet.js" "graph.js" "GraphGoJsModeletResources.js" "NavigationModelet.js" "go.js" "HypothesisModelet.js" "./" "SimpleTreeModelet.js" "PropertiesEditorModelet.js" "SimpleGridModelet.js" "../" "#MatrixModelet.js#" "GraphGoJsModelet.js" "JqGridModelet.js" "old_modelet/" "BreadcrumbModelet.js" "MenuBarModelet.js" "MatrixModelet.js" "FileSaver.js" "GraphModelet.js" "ActionModelet.js" "LaunchPanelModelet.js" "EventsListenerXMLModelet.js")
+
+ ("/home/marin/Documents/rendu/3AIT/Exercice/2/" (21896 12033 509118 75000) "exercice.py" "2.3.py" "2.2.py" "2.4.py" "./" "2.5.py" "../" "2.1.py" "2.6.py")
+
+ ("/home/marin/Documents/enioka/B.Sc/3AIT - Artificial Intelligence - Programmation Fonctionnelle/labs/" (21870 63371 176418 948000) "tp1.2~" "tp1.1~" "try.lisp.elc" "tp3.lisp~" "./" "../" "try.lisp" "tp1.2" "tp2.3.lisp~" "tp1.1" "lispy.py~" "tp2.3.lisp" "try.lisp~" "lispy.py" "tp3.lisp")
+
+ ("/home/marin/Documents/rendu/3AIT/Exercice/1/" (21896 12024 173991 510000) "./" "../" "1.4.lsp" "1.1.lisp" "1.2.lisp" "1.7.txt" "1.5.lsp")
+
+ ("/home/marin/Modeler/work/Eram/templates/clientSpecific/client.bootstrap/" (21901 2420 704022 628000) "8_2_2eram_components.xml" "wiki/" "8_3_1client_domain.xml" "./" "8_8_2client_rules.xml" "../" "8_4client_security.xml" "8_2_2client_components.xml" "7_5application_templates_legacy.xml" "8_1client_dictionary.xml" "8_8_1client_gui.xml")
+
+ ("/home/marin/Modeler/work/Eram/templates/plugins/kaava/scripts/js/base/" (21901 8981 850725 755000) "Event.js" "PerspectiveManager.js" "Rules.js" "Modelet.js" "Session.js" "AbstractGridModelet.js" "View.js" "Perspective.js" "Inheritance.js" "./" "Utils.js" "ResourceManager.js" "../" "DynamicAttributesManager.js" "ModeletTools.js" "Logger.js" "Dialog.js" "Wrappers.js" "ModeletGUI.js" "AbstractGraphModelet.js" "Modeler.js" "AbstractTreeModelet.js" "#View.js#")
+
+ ("/home/marin/Modeler/work/Eram/templates/plugins/kaava/scripts/js/modelets/" (21901 7689 856310 934000) "HistoryModelet.js" "ViewXMLModelet.js" "ModifyDocumentModelet.js" "LayoutEngine.js" "JsTreeModelet.js" "PortletModelet.js" "go-debug.js" "DocModelet.js" "graph.js" "GraphGoJsModeletResources.js" "NavigationModelet.js" "go.js" "HypothesisModelet.js" "./" "SimpleTreeModelet.js" "PropertiesEditorModelet.js" "SimpleGridModelet.js" "../" "GraphGoJsModelet.js" "JqGridModelet.js" "old_modelet/" "BreadcrumbModelet.js" "MenuBarModelet.js" "MatrixModelet.js" "FileSaver.js" "GraphModelet.js" "ActionModelet.js" "LaunchPanelModelet.js" "EventsListenerXMLModelet.js")
+
+ ("/home/marin/Modeler/work/Cri/templates/clientSpecific/" (21864 35761 455456 104000) ".gitignore" "client.bootstrap/" "./" "../" ".git/")
+
+ ("/home/marin/Modeler/work/Cri/" (21670 38221 479461 253000) "./" "../" "heap/" "build/" "templates/")
+
+ ("/home/marin/test/tadam/" (21861 60239 918084 740000) "mainView.xml" "images/" "./" "../" "ModeletWorkbench.html" "workbench.cfg" "workbench.cfg~")
+
+ ("/home/marin/test/plugins/kaava/scripts/css/" (21861 32184 825851 559000) "#webclient.css#" "./" "../" "webclientv2.css" "bootstrap/" "webclient.css")
+
+ ("/home/marin/test/plugins/kaava/scripts/js/modelets/" (21861 36145 145797 530000) "HistoryModelet.js" "ViewXMLModelet.js" "ModifyDocumentModelet.js" "LayoutEngine.js" "JsTreeModelet.js" "PortletModelet.js" "go-debug.js" "DocModelet.js" "graph.js" "GraphGoJsModeletResources.js" "NavigationModelet.js" "go.js" "HypothesisModelet.js" "./" "SimpleTreeModelet.js" "PropertiesEditorModelet.js" "SimpleGridModelet.js" "../" "GraphGoJsModelet.js" "JqGridModelet.js" "old_modelet/" "BreadcrumbModelet.js" "MenuBarModelet.js" "MatrixModelet.js" "FileSaver.js" "GraphModelet.js" "ActionModelet.js" "LaunchPanelModelet.js" "EventsListenerXMLModelet.js")
+
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/js/tests/css/" (21861 47458 973470 99000) "bootstrap.min.css" "modeler.css" "style.css" "fonts/" "images/" "jquery-ui.min.css" "./" "jquery-ui.css" "../" "tabcontent.css" "layout.css" "jquery.jgrowl.css" "ui.jqgrid.css" "test_krys.css" "bootstrap/" "webclient.css" "kaavaMainCSS.css")
+
+ ("/home/marin/Documents/Projects/JSFight/public/views/auth/" (21834 5504 833270 964000) "signup.html" "login.html" "./" "../")
+
+ ("/home/marin/Documents/Projects/JSFight/public/src/js/controllers/" (21860 10719 114111 19000) "ChatCtrl.js" "LetsFight.js~" "test.html" "LetsFight.js" "fighterCtrl.js" "./" "../" "AuthCtrl.js" "letsFight.js~" "test.html~" "gameCtrl.js" "HomeCtrl.js")
+
+ ("/home/marin/Documents/Projects/JSFight/app/config/" (21831 34889 980529 254000) "passport.js" "./" "database.js" "../")
+
+ ("/home/marin/Documents/JSFight/public/src/js/lib/" (21860 17577 871293 130000) "player.js" "./" "../" "svg.js")
+
+ ("/home/marin/Documents/JSFight/app/config/" (21860 17577 839292 771000) "passport.js" "./" "database.js" "../")
+
+ ("/home/marin/Documents/JSFight/app/routes/" (21860 17577 839292 771000) "chat.js" "./" "../" "global.js")
+
+ ("/home/marin/Documents/JSFight/public/src/js/services/" (21860 33421 507008 340000) "Fight.js" "./" "../" "Auth.js" "Chat.js")
+
+ ("/home/marin/Documents/JSFight/app/models/" (21860 17577 839292 771000) "message.js" "./" "../" "user.js")
+
+ ("/home/marin/Documents/Projects/HowTo/app/models/" (21790 36625 445081 209000) "tutorial.rb" "./" "../" ".keep" "concerns/")
+
+ ("/home/marin/Documents/Projects/HowTo/config/" (21790 36625 446081 217000) "initializers/" "locales/" "./" "../" "secrets.yml" "application.rb" "routes.rb" "database.yml" "environments/" "boot.rb" "environment.rb")
+
+ ("/home/marin/Documents/enioka/" (21890 30177 498996 127000) "IIT App flows Master List (Romain).csv" "RedbullStudentKumiteQualifications - Supinfo.zip" "Manual.png" "IIT App flows Master List (Enregistré automatiquement).xlsx" "IIT.Flow Map.Chuck.png" "IIT.Flow Map.Payroll AU.png" "IIT App flows Master List (Romain).xlsx" "test ENG/" "IIT App flows Master List.xlsx" "bg.jpg" "Quiz_AnswerFile_xENG_Advanced_158034.xlsx" "~$IIT App flows Master List_Extract CRM.xlsx" "toto.xml.txt" "Carto/" "IIT.Flow Map.Payroll SG.png" "xENG_Advanced_Student_QCM1.zip" "OfficeEnabler.xlsm" "visualvm_138/" "IIT.Flow Map.Payroll US.png" "Quiz_AnswerFile_3ENG_Advanced_158034.xlsx" "IIT.Flow Map.Payroll JP.png" "IIT.Flow Map.CSI Publishers.png" "IIT App flows Master List_2015_04_16_2.xlsx" "20150217 - Payment for payroll process.pptx" "PayrollProvider.png" ".~lock.DOC3PJT.odt#" "IIT.Flow Map.Payroll ES.png" "./" "IIT App flows Master List_2015-02-16 0900.xlsx" "IIT.Flow Map.NCIS BI.png" "IIT App flows Master List_2015-03-13_1900.xlsx" "../" "TOUTOU/" "IIT.Flow Map.Payroll DE.png" "IIT.Flow Map.Payroll BR.png" "~$2014_shadow_payroll_workshop.pptx" "IIT.Flow Map.Payroll UK.png" "B.Sc/" "NCIS.png" "IIT.Flow Map.Payroll US..png" "Photo1.png" "IIT.Flow Map.Payroll IT.png" "IIT.Flow Map.Payroll NL.png" "IIT.Flow Map.Payroll SE.png" "IIT App flows Master List_2015-02-06_1500.xlsx" "FichierContacts_Event-07-02-2015-46121.csv" "IIT.Flow Map.Payroll CN.png" "Check Excel/" "#toto.xml#" "IIT App flows Master List_2015_04_16.xlsx" "Notes/" "IIT App flows Master List_2015-02-06_1000.xlsx" "~$IIT App flows Master List.xlsx" "export_Cartographie_A9419A04D7C600A3D496AC7C57F267B1_Cartographie_ (1).zip" "2014_shadow_payroll_workshop.pptx" "DOC3PJT.odt" "IIT.Flow Map.Payroll Madrid.png" "IIT.Flow Map.Payroll FR.png" "IIT.Flow Map.Payroll RU.png" "IIT App flows Master List_2015_04_17.xlsx")
+
+ ("/home/marin/Documents/rendu/3AIT/" (21896 9802 846877 678000) "./" "../" "Exercice/")
+
+ ("/home/marin/Documents/rendu/3AIT/Exercice/" (21896 5552 238514 524000) "./" "../" "2/" "1/")
+
+ ("/home/marin/Documents/rendu/3AIT/1/" (21895 64238 979622 904000) "./" "../")
+
+ ("/home/marin/Documents/rendu/" (21895 64222 879390 883000) "3AIT/" "./" "../")
+
+ ("/home/marin/Documents/" (21895 64217 862318 581000) "npm-debug.log" "test.xcf" "Esport/" "rendu/" "PayrollProvider.xcf" "IIT App flows Master List.xlsx" "VMware-VIMSetup-all-5.5.0-2183112-20140901-update02.iso" "apl/" "JSFight/" "enioka/" "VMWARE_YOSEMITE/" "./" "Projects/" "../" "Supinfo/" "iso_vm/" "SC2/" "triche/" "vmware_patch/" "smartgit/" "fr_windows_server_2012_r2_with_update_x64_dvd_4048488.iso" "SOS.zip" "pa-applet-master/" "Test/")
+
+ ("/home/marin/Modeler/work/Eram/templates/plugins/kaava/" (21892 11086 976902 897000) "8kaava_maps_view_v2.xml" "test/" "8kaava_jqgrid_view.xml" "8kaava_doc_view.xml" "generate_jsdoc.sh" "8kaava_maps_view.xml" "8kaava_default_view.xml" "8kaava_browse_maps_view.xml" "8kaava_browse_view.xml" "./" "8kaava_components_commander.xml" "9kaava_user_gui.xml" "../" "tools/" "8kaava_graph.xml" "8kaava_welcome_view.xml" "8kaava_main_view.xml" "8kaava_matrix_view.xml" "doc_test/" "8kaava_navigation_view.xml" "jshint/" "7kaava.xml" "include/" "scripts/" "old_viewdef/" "resources/" "7kaava_rules.xml")
+
+ ("/home/marin/Modeler/work/Eram/templates/plugins/kaava/scripts/js/" (21883 1935 281485 449000) "perspectives/" "./" "tests/" "../" "base/" "modelets/")
+
+ ("/home/marin/Modeler/work/Eram/templates/plugins/kaava/scripts/css/" (21892 4689 531119 511000) "./" "../" "webclientv2.css" "bootstrap/" "webclient.css")
+
+ ("/home/marin/Modeler/work/Eram/templates/plugins/kaava/scripts/" (21883 1935 258485 127000) "css/" "./" "../" "js/")
+
+ ("/home/marin/Modeler/work/Eram/templates/plugins/Importers/" (21883 1935 236484 820000) "auchan2view.py" "./" "../")
+
+ ("/home/marin/Modeler/work/Eram/templates/plugins/" (21883 1935 330486 134000) "OfficeEnabler/" "kaava/" "workbench-deploy.py" ".gitignore" "./" "../" "ModelerCLI/" ".git/" "Importers/")
+
+ ("/home/marin/Modeler/work/Eram/templates/SOI/" (21883 1958 314807 493000) "README" ".gitignore" "./" "../" "soi.bootstrap/" "soi.data/" ".git/")
+
+ ("/home/marin/Modeler/work/Cri/templates/clientSpecific/client.bootstrap/" (21892 5056 548530 930000) "8_8_2client_rules_matrix_app.xml" "#8_2_2client_components.xml#" "wiki/" "8_8_2client_rules_graph_ApplicationFlows.xml" "./" "../" "8_3client_domain.xml" "8_4client_security.xml" "8_2_1client_templates.xml" "8_2_2client_components.xml" "8_8_2client_rules_jqgrid.xml" "8_1client_dictionary.xml" "8_8_1client_gui.xml" "resources/")
+
+ ("/home/marin/Modeler/work/Cri/templates/plugins/kaava/" (21892 4132 796322 653000) "8kaava_maps_view_v2.xml" "test/" "8kaava_jqgrid_view.xml" "8kaava_doc_view.xml" "generate_jsdoc.sh" "8kaava_maps_view.xml" "8kaava_default_view.xml" "8kaava_browse_maps_view.xml" "8kaava_browse_view.xml" "./" "8kaava_components_commander.xml" "9kaava_user_gui.xml" "../" "tools/" "8kaava_graph.xml" "8kaava_welcome_view.xml" "8kaava_main_view.xml" "8kaava_matrix_view.xml" "doc_test/" "8kaava_navigation_view.xml" "jshint/" "7kaava.xml" "include/" "scripts/" "old_viewdef/" "resources/" "7kaava_rules.xml")
+
+ ("/home/marin/Modeler/work/Cri/templates/plugins/" (21823 39971 513908 822000) "OfficeEnabler/" "kaava/" "workbench-deploy.py" ".gitignore" "./" "../" "ModelerCLI/" ".git/" "Importers/")
+
+ ("/home/marin/Modeler/work/Cri/templates/" (21823 21714 285079 497000) "./" "../" "domains/" "clientSpecific/" "archi/" "SOI/" "rootDomain/" "plugins/")
+
+ ("/home/marin/Modeler/work/Eram/" (21883 1973 747023 261000) "./" "../" "heap/" "build/" "templates/")
+
+ ("/home/marin/Modeler/work/Eram/templates/" (21883 1936 865507 596000) "./" "../" "domains/" "clientSpecific/" "archi/" "SOI/" "rootDomain/" "plugins/")
+
+ ("/home/marin/Modeler/work/Eram/templates/clientSpecific/" (21883 1829 474006 83000) ".gitignore" "client.bootstrap/" "./" "../" ".git/")
+
+ ("/home/marin/Documents/Projects/JSFight/public/src/js/lib/" (21849 3205 618655 705000) "player.js" "./" "../" "svg.js")
+
+ ("/home/marin/Documents/Projects/JSFight/public/dist/js/" (21848 65414 913145 491000) "./" "../" "app.min.js")
+
+ ("/home/marin/Documents/Projects/JSFight/public/views/" (21848 64927 336519 879000) "core_game/" "auth/" "index.html" "./" "../" "home.html")
+
+ ("/home/marin/Documents/Projects/JSFight/public/templates/" (21849 1641 367603 911000) "./" "../" "svg.html")
+
+ ("/home/marin/test/plugins/kaava/scripts/js/base/" (21855 11758 462167 30000) "Event.js" "PerspectiveManager.js" "Rules.js" "Modelet.js" "Session.js" "AbstractGridModelet.js" "View.js" "Perspective.js" "Inheritance.js" "./" "Utils.js" "ResourceManager.js" "../" "DynamicAttributesManager.js" "ModeletTools.js" "Logger.js" "Dialog.js" "Wrappers.js" "ModeletGUI.js" "AbstractGraphModelet.js" "Modeler.js" "AbstractTreeModelet.js" "#View.js#")
+
+ ("/home/marin/Documents/JSFight/public/src/js/controllers/" (21860 17577 871293 130000) "ChatCtrl.js" "LetsFight.js" "./" "../" "AuthCtrl.js" "HomeCtrl.js")
+
+ ("/home/marin/Documents/JSFight/public/src/js/" (21860 17577 871293 130000) "controllers/" "routes.js" "./" "../" "lib/" "app.js" "services/")
+
+ ("/home/marin/Documents/JSFight/" (21860 17586 623391 287000) ".gitignore" "node_modules/" "./" "package.json" "../" "readme.md" "server.js" "public/" "Gruntfile.js" "app/" ".git/")
+
+ ("/home/marin/test/plugins/kaava/scripts/js/tests/css/" (21855 11758 468167 87000) "bootstrap.min.css" "modeler.css" "style.css" "fonts/" "images/" "jquery-ui.min.css" "./" "jquery-ui.css" "../" "tabcontent.css" "layout.css" "jquery.jgrowl.css" "ui.jqgrid.css" "test_krys.css" "bootstrap/" "webclient.css" "kaavaMainCSS.css")
+
+ ("/home/marin/test/plugins/kaava/scripts/js/tests/" (21855 10811 444177 760000) "AbstractGraphModeletSpecRunner.html" "src/" "ModeletBatch.html" "TestSharedState.xml" "includes/" "WrappersSpecRunner.html" "RulesSpecRunner.html" "fonts/" "spec/" "images/" "TestGoJS.html" "BatchModelet.js" "css/" "TestRunner.py" "./" "workbenchGlobal.cfg" "../" "SpecRunner.html" ".#matrixBench.js" "#matrixBench.js#" "ModeletWorkbench.html" "matrixBench.js" "lib/" "testJqGrid.xml" "matrixBench.js~" "MatrixBench.html" "8_2_2client_components.xml" "MatrixBench.html~")
+
+ ("/home/marin/Documents/Projects/JSFight/public/src/js/" (21860 10529 391102 888000) "controllers/" "routes.js" "./" "../" "lib/" "app.js" "services/")
+
+ ("/home/marin/Documents/Projects/JSFight/public/src/js/services/" (21848 64820 334287 199000) "Fight.js" "./" "../" "Auth.js" "Chat.js")
+
+ ("/home/marin/Documents/Projects/JSFight/" (21848 64820 335287 211000) ".gitignore" "node_modules/" "./" "package.json" "../" "readme.md" "server.js" "public/" "Gruntfile.js" "app/" ".git/")
+
+ ("/home/marin/Documents/Projects/JSFight/app/models/" (21848 64820 319287 27000) "message.js" "./" "../" "user.js")
+
+ ("/home/marin/Documents/Projects/JSFight/app/routes/" (21848 64820 338287 245000) "chat.js" "./" "../" "global.js")
+
+ ("/home/marin/Documents/Projects/HowTo/app/controllers/" (21885 62117 330097 705000) "tutorials_controller.rb" "./" "welcome_controller.rb" "../" "application_controller.rb" "#tutorials_controller.rb#" "concerns/")
+
+ ("/home/marin/Documents/enioka/B.Sc/3MGT - IT Management 3 - Economics and IT Business Strategy/" (21457 3868 0 0) "2012-2013- 3MGT- PWT 6 - project management.pptx" "2012-2013- 3MGT- PWT 5 -  project management.pptx" "2012-2013- 3MGT- PWT 8 - project management.pptx" "2012-2013- 3MGT- PWT 10 - project management.pptx" "Face To Face contents/" "3MGT - progression.pdf" "2012-2013- 3MGT- PWT 1 - project management.pptx" "2012-2013- 3MGT- PWT 4 -  project management.pptx" "./" "../" "2012-2013- 3MGT- PWT 3 -  project management.pptx" "2012-2013- 3MGT- PWT 2 - project management.pptx" "2012-2013- 3MGT- PWT 9 - project management.pptx" "2012-2013- 3MGT- PWT 11 -  project management (2).pptx" "2012-2013- 3MGT- PWT12 -  project management.pptx" "2012-2013- 3MGT- PWT 7 - project management.pptx")
+
+ ("/home/marin/Téléchargements/MGT/" (21886 42141 771221 348000) "03 - Prise de notes.docx" "09 - Prise de notes.docx" "01 - Prise de notes.docx" "10 - Prise de notes.docx" "11 - Prise de notes.docx" "./" "../" "04 - Prise de notes.docx" "07 - Prise de notes.docx" "06 - Prise de notes.docx" "05 - Prise de notes.docx" "02 - Prise de notes.docx" "08 - Prise de notes.docx")
+
+ ("/home/marin/Documents/Projects/" (21878 57204 628469 411000) "website/" "AngularSVG/" "3PJT/" "SVGLib/" "JSFight/" "./" "HowTo/" "3JVA-android/" "../" "3PJT-master/" "yed-3.13/" "graphs/")
+
+ ("/home/marin/Modeler/" (21883 113 109315 972000) "work/" "apache-tomcat-8.0.15/" "./" "../" "1234567890/" "modeler-deploy/" "plugins.zip" "plugins/")
+
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/Eram/org/apache/jsp/" (21882 60413 412030 812000) "Kaava_jsp.class" "./" "../" "Admin_jsp.class" "Kaava_jsp.java" "Admin_jsp.java")
+
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/criteo/org/apache/jsp/" (21882 42371 349840 977000) "Kaava_jsp.class" "./" "../" "Admin_jsp.class" "Kaava_jsp.java" "Admin_jsp.java")
+
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/criteo/org/apache/" (21882 42363 733729 18000) "./" "../" "jsp/")
+
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/criteo/org/" (21882 42363 733729 18000) "apache/" "./" "../")
+
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/criteo/" (21882 42363 733729 18000) "org/" "./" "../")
+
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/Pickup/org/apache/jsp/" (21861 43141 794476 726000) "ShowDomain_jsp.java" "ShowObject_jsp.java" "ShowComponents_jsp.class" "ShowViewGenericXML_jsp.class" "ShowWikiObjectRaw_jsp.class" "Kaava_jsp.class" "./" "../" "ShowDomain_jsp$1.class" "ShowComponent_jsp.class" "Login_jsp.java" "Admin_jsp.class" "ManageBootstrap_jsp.java" "ShowViewGenericXML_jsp.java" "ShowObject_jsp.class" "ManageBootstrap_jsp.class" "ShowDomain_jsp.class" "ShowWikiObjectRaw_jsp.java" "Kaava_jsp.java" "ShowComponent_jsp.java" "ShowComponents_jsp.java" "Login_jsp.class" "Admin_jsp.java")
+
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/Pickup/org/apache/" (21730 6785 376142 164000) "./" "../" "jsp/")
+
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/Pickup/org/" (21730 6785 376142 164000) "apache/" "./" "../")
+
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/Pickup/" (21849 57736 913432 308000) "org/" "./" "../")
+
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/NewCri/org/apache/jsp/" (21882 41684 719747 371000) "Kaava_jsp.class" "./" "../" "Admin_jsp.class" "Kaava_jsp.java" "Admin_jsp.java")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

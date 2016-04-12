@@ -1,0 +1,509 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/marin/Documents/enioka/web/html/" . "css/")
+ ("/home/marin/Documents/enioka/web/" . "html/")
+ ("/home/marin/Documents/website/vendor/assets/" . "javascripts/")
+ ("/home/marin/Documents/website/vendor/" . "assets/")
+ ("/home/marin/Documents/website/app/assets/javascripts/libs/" . "retrospect/")
+ ("/home/marin/Modeler/work/Pickup/templates/clientSpecific/client.bootstrap/" . "wiki/")
+ ("/home/marin/Documents/website/app/controllers/" . "concerns/")
+ ("/home/marin/.emacs.d/" . "nxml-mode/")
+ ("/home/marin/Documents/website/app/assets/stylesheets/components/" . "require/")
+ ("/home/marin/Documents/website/app/assets/images/" . "medium/")
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/css/" . "bootstrap/")
+ ("/home/marin/Modeler/work/Pickup/build/tas/" . "WebContent/")
+ ("/home/marin/Modeler/work/Pickup/build/" . "tas/")
+ ("/home/marin/Modeler/work/Pickup/templates/rootDomain/WebContent/images/" . "logos_criteo/")
+ ("/home/marin/Modeler/work/Pickup/templates/rootDomain/WebContent/" . "images/")
+ ("/home/marin/Modeler/work/Pickup/templates/rootDomain/" . "WebContent/")
+ ("/home/marin/Modeler/work/Pickup/templates/domains/domains.bootstrap/" . "resources/")
+ ("/home/marin/Documents/website/config/" . "initializers/")
+ ("/home/marin/Documents/website/db/" . "migrate/")
+ ("/home/marin/Documents/website/app/models/" . "concerns/")
+ ("/home/marin/Documents/website/test/" . "models/")
+ ("/home/marin/Documents/website/app/assets/stylesheets/libs/retrospect/" . "libs/")
+ ("/home/marin/Documents/website/app/assets/stylesheets/libs/" . "retrospect/")
+ ("/home/marin/Documents/website/app/assets/javascripts/lib/retrospect/" . "ie/")
+ ("/home/marin/Documents/website/app/assets/javascripts/lib/" . "retrospect/")
+ ("/home/marin/Documents/website/app/assets/javascripts/" . "libs/")
+ ("/home/marin/Documents/website/lib/" . "assets/")
+ ("/home/marin/Documents/website/app/assets/stylesheets/" . "components/")
+ ("/home/marin/Documents/TestCSSTemplate/assets/" . "css/")
+ ("/home/marin/Documents/TestCSSTemplate/" . "assets/")
+ ("/home/marin/Documents/belleville-en-vrai/" . "js/")
+ ("/scp:root@172.16.15.130:/home/" . "supinfo/")
+ ("/scp:root@172.16.15.130:/etc/" . "asterisk/")
+ ("/scp:root@172.16.15.130:/" . "root/")
+ ("/etc/httpd/" . "conf/")
+ ("/etc/" . "httpd/")
+ ("/var/" . "www/")
+ ("/home/marin/Documents/website/app/assets/" . "stylesheets/")
+ ("/home/marin/Documents/website/app/views/" . "posts/")
+ ("/home/marin/Documents/website/app/" . "views/")
+ ("/home/marin/Documents/website/" . "app/")
+ ("/run/media/marin/Mycroft Holmes/Moodle_Certificat/mod_certificate_moodle25_2013102302/certificate/type/" . "letter_embedded/")
+ ("/run/media/marin/Mycroft Holmes/Moodle_Certificat/mod_certificate_moodle25_2013102302/certificate/lang/" . "en/")
+ ("/run/media/marin/Mycroft Holmes/Moodle_Certificat/mod_certificate_moodle25_2013102302/certificate/" . "type/")
+ ("/run/media/marin/Mycroft Holmes/Moodle_Certificat/mod_certificate_moodle25_2013102302/" . "certificate/")
+ ("/run/media/marin/Mycroft Holmes/Moodle_Certificat/" . "mod_certificate_moodle25_2013102302/")
+ ("/run/media/marin/Mycroft Holmes/" . "Moodle_Certificat/")
+ ("/run/media/marin/" . "Mycroft Holmes/")
+ ("/run/media/" . "marin/")
+ ("/run/" . "media/")
+ ("/home/marin/matrix/src/js/defaultImplementations/" . "defaultHTMLRenderer/")
+ ("/home/marin/tmp/dev/ij.js/src/" . "js/")
+ ("/home/marin/tmp/dev/ij.js/" . "src/")
+ ("/home/marin/tmp/dev/" . "c3/")
+ ("/home/marin/Téléchargements/ij.js/src/" . "js/")
+ ("/home/marin/Téléchargements/ij.js/" . "src/")
+ ("/home/marin/goprojects/src/github.com/FaXaq/" . "gjp/")
+ ("/home/marin/goprojects/src/github.com/nsf/" . "gocode/")
+ ("/home/marin/goprojects/src/github.com/" . "FaXaq/")
+ ("/home/marin/goprojects/src/" . "github.com/")
+ ("/home/marin/goprojects/" . "src/")
+ ("/home/marin/gowork/src/github.com/FaXaq/" . "gojob/")
+ ("/home/marin/gowork/src/github.com/" . "FaXaq/")
+ ("/home/marin/gowork/src/" . "github.com/")
+ ("/home/marin/gowork/" . "src/")
+ ("/home/marin/Modeler/work/Eram/templates/clientSpecific/client.bootstrap/" . "wiki/")
+ ("/home/marin/matrix/src/js/" . "defaultImplementations/")
+ ("/home/marin/matrix/examples/" . "hierarchicalExample/")
+ ("/home/marin/Documents/Projects/Uphoto/" . "app/")
+ ("/home/marin/Modeler/work/Eram/templates/rootDomain/src/org/" . "json/")
+ ("/home/marin/Modeler/work/Eram/templates/rootDomain/src/com/enioka/" . "server/")
+ ("/home/marin/Modeler/work/Eram/templates/rootDomain/src/com/" . "enioka/")
+ ("/home/marin/Modeler/work/Eram/templates/rootDomain/src/" . "org/")
+ ("/home/marin/Modeler/work/Eram/templates/rootDomain/" . "config/")
+ ("/home/marin/Modeler/work/Eram/build/" . "tas/")
+ ("/home/marin/Modeler/work/Eram/templates/archi/" . "archi.bootstrap/")
+ ("/home/marin/Modeler/work/Eram/templates/domains/" . "domains.bootstrap/")
+ ("/home/marin/Modeler/work/TestCriCleanUp/templates/clientSpecific/client.bootstrap/" . "wiki/")
+ ("/home/marin/Documents/Projects/RootNote/app/views/" . "shared/")
+ ("/home/marin/Documents/Projects/RootNote/app/" . "views/")
+ ("/home/marin/Documents/Projects/RootNote/" . "app/")
+ ("/home/marin/workbench/plugins/kaava/scripts/js/matrix/" . "lib/")
+ ("/home/marin/matrix/tests/" . "jasmine/")
+ ("/home/marin/howto/app/assets/" . "javascripts/")
+ ("/home/marin/howto/app/views/" . "users/")
+ ("/home/marin/howto/app/models/" . "concerns/")
+ ("/home/marin/howto/db/" . "migrate/")
+ ("/home/marin/howto/app/" . "views/")
+ ("/home/marin/howto/" . "app/")
+ ("/home/marin/Documents/Projects/website/hello_app/app/" . "controllers/")
+ ("/home/marin/Documents/Projects/website/hello_app/" . "config/")
+ ("/home/marin/Documents/Projects/website/" . "hello_app/")
+ ("/home/marin/Documents/Projects/HowTo/db/" . "migrate/")
+ ("/home/marin/Documents/Projects/HowTo/app/models/" . "concerns/")
+ ("/home/marin/Documents/Projects/HowTo/app/assets/" . "stylesheets/")
+ ("/home/marin/matrix/src/" . "js/")
+ ("/home/marin/matrix/" . "examples/")
+ ("/home/marin/vmware/" . "Windows 8 x64/")
+ ("/home/marin/org/perso/data/19/" . "b42759-1ffc-4885-9702-1c2128105d6c/")
+ ("/home/marin/org/perso/data/" . "19/")
+ ("/home/marin/org/perso/" . "data/")
+ ("/home/marin/workbench/d3js/plugins/kaava/scripts/js/tests/" . "src/")
+ ("/home/marin/workbench/d3js/plugins/kaava/scripts/js/" . "modelets/")
+ ("/home/marin/workbench/d3js/plugins/kaava/scripts/" . "js/")
+ ("/home/marin/workbench/d3js/plugins/kaava/" . "scripts/")
+ ("/home/marin/workbench/d3js/plugins/" . "kaava/")
+ ("/home/marin/workbench/d3js/" . "plugins/")
+ ("/home/marin/Modeler/work/TestCriCleanUp/templates/plugins/kaava/scripts/js/" . "modelets/")
+ ("/home/marin/Modeler/work/TestCriCleanUp/templates/plugins/kaava/scripts/" . "js/")
+ ("/home/marin/Modeler/work/TestCriCleanUp/templates/plugins/kaava/" . "scripts/")
+ ("/home/marin/Modeler/work/TestCriCleanUp/templates/plugins/" . "kaava/")
+ ("/home/marin/org/notes/data/f5/" . "744085-b8f0-4455-95de-43173977667b/")
+ ("/home/marin/org/notes/data/" . "f5/")
+ ("/home/marin/org/notes/" . "data/")
+ ("/home/marin/org/" . "notes/")
+ ("/home/marin/Modeler/work/TestCriCleanUp/templates/domains/" . "domains.bootstrap/")
+ ("/home/marin/Modeler/work/Pickup/templates/domains/" . "domains.bootstrap/")
+ ("/home/marin/Modeler/work/TestCriCleanUp/templates/clientSpecific/" . "client.bootstrap/")
+ ("/home/marin/Modeler/work/TestCriCleanUp/templates/" . "clientSpecific/")
+ ("/home/marin/Modeler/work/TestCriCleanUp/" . "templates/")
+ ("/home/marin/Documents/rendu/3AIT/Exercice/" . "1/")
+ ("/home/marin/Documents/rendu/3AIT/" . "Exercice/")
+ ("/home/marin/Documents/rendu/" . "3AIT/")
+ ("/home/marin/Modeler/work/Eram/templates/clientSpecific/" . "client.bootstrap/")
+ ("/home/marin/Modeler/work/Eram/templates/plugins/kaava/scripts/js/" . "modelets/")
+ ("/home/marin/Modeler/work/Eram/templates/plugins/kaava/scripts/" . "js/")
+ ("/home/marin/Modeler/work/Eram/templates/plugins/kaava/" . "scripts/")
+ ("/home/marin/Modeler/work/Eram/templates/plugins/" . "kaava/")
+ ("/home/marin/Modeler/work/Eram/templates/" . "clientSpecific/")
+ ("/home/marin/Modeler/work/Eram/" . "templates/")
+ ("/home/marin/Téléchargements/" . "ij.js/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/criteo/org/apache/" . "jsp/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/criteo/org/" . "apache/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/criteo/" . "org/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/Pickup/org/apache/" . "jsp/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/Pickup/org/" . "apache/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/Pickup/" . "org/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/NewCri/org/apache/" . "jsp/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/NewCri/org/" . "apache/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/NewCri/" . "org/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/Eram/org/apache/" . "jsp/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/Eram/org/" . "apache/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/Eram/" . "org/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/localhost/" . "Pickup/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/Catalina/" . "localhost/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/work/" . "Catalina/")
+ ("/home/marin/Modeler/apache-tomcat-8.0.15/" . "logs/")
+ ("/home/marin/Modeler/work/criteo/build/tas/src/com/enioka/server/" . "session/")
+ ("/home/marin/Modeler/work/criteo/build/tas/src/com/enioka/" . "server/")
+ ("/home/marin/Modeler/work/criteo/build/tas/src/com/" . "enioka/")
+ ("/home/marin/Modeler/work/criteo/build/tas/src/" . "com/")
+ ("/home/marin/Modeler/work/criteo/build/tas/" . "src/")
+ ("/home/marin/Modeler/work/criteo/build/" . "tas/")
+ ("/home/marin/Modeler/work/criteo/" . "build/")
+ ("/home/marin/Modeler/modeler-deploy/" . "html/")
+ ("/home/marin/Documents/enioka/B.Sc/3AIT - Artificial Intelligence - Programmation Fonctionnelle/" . "labs/")
+ ("/home/marin/Documents/enioka/B.Sc/" . "3AIT - Artificial Intelligence - Programmation Fonctionnelle/")
+ ("/home/marin/Documents/enioka/" . "web/")
+ ("/home/marin/Documents/Projects/HowTo/app/views/" . "users/")
+ ("/home/marin/Documents/Projects/HowTo/app/" . "controllers/")
+ ("/home/marin/Documents/Projects/HowTo/" . "app/")
+ ("/home/marin/Documents/JSFight/public/dist/" . "js/")
+ ("/home/marin/Documents/JSFight/public/src/js/" . "services/")
+ ("/home/marin/Documents/JSFight/public/src/" . "js/")
+ ("/home/marin/Documents/JSFight/public/" . "src/")
+ ("/home/marin/Documents/JSFight/app/" . "models/")
+ ("/home/marin/Documents/JSFight/" . "app/")
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/js/tests/" . "src/")
+ ("/home/marin/test/plugins/kaava/scripts/js/tests/" . "css/")
+ ("/home/marin/test/plugins/kaava/scripts/js/" . "modelets/")
+ ("/home/marin/test/plugins/kaava/scripts/" . "js/")
+ ("/home/marin/test/plugins/kaava/" . "scripts/")
+ ("/home/marin/test/plugins/" . "kaava/")
+ ("/home/marin/test/" . "plugins/")
+ ("/home/marin/Documents/Projects/JSFight/public/views/" . "auth/")
+ ("/home/marin/Documents/Projects/JSFight/public/dist/" . "js/")
+ ("/home/marin/Documents/Projects/JSFight/public/src/js/" . "controllers/")
+ ("/home/marin/Documents/Projects/JSFight/public/src/" . "js/")
+ ("/home/marin/Documents/Projects/JSFight/public/" . "views/")
+ ("/home/marin/Documents/Projects/JSFight/app/" . "routes/")
+ ("/home/marin/Documents/Projects/JSFight/" . "app/")
+ ("/home/marin/Documents/Projects/SVGLib/" . "ressources/")
+ ("/home/marin/Modeler/work/Cri/templates/domains/" . "domains.bootstrap/")
+ ("/home/marin/Modeler/work/Dev/templates/plugins/kaava/scripts/js/" . "modelets/")
+ ("/home/marin/Modeler/work/Dev/templates/plugins/kaava/scripts/" . "js/")
+ ("/home/marin/Modeler/work/Dev/templates/plugins/kaava/" . "scripts/")
+ ("/home/marin/Modeler/work/Dev/templates/plugins/" . "kaava/")
+ ("/home/marin/Modeler/work/Dev/templates/clientSpecific/" . "client.bootstrap/")
+ ("/home/marin/tmp/" . "dev/")
+ ("/home/marin/workbench/plugins/kaava/scripts/js/tests/" . "src/")
+ ("/home/marin/workbench/plugins/kaava/scripts/js/" . "tests/")
+ ("/home/marin/workbench/plugins/kaava/scripts/" . "js/")
+ ("/home/marin/workbench/plugins/kaava/" . "scripts/")
+ ("/home/marin/workbench/plugins/" . "kaava/")
+ ("/home/marin/workbench/" . "plugins/")
+ ("/home/marin/tototo/" . "toto/")
+ ("/home/marin/tothzeiuzbea/" . "zoaziudza/")
+ ("/home/marin/Modeler/plugins/kaava/scripts/js/tests/" . "src/")
+ ("/home/marin/Modeler/plugins/kaava/scripts/js/" . "modelets/")
+ ("/home/marin/Modeler/plugins/kaava/scripts/" . "js/")
+ ("/home/marin/Modeler/plugins/kaava/" . "scripts/")
+ ("/home/marin/Modeler/plugins/" . "kaava/")
+ ("/home/marin/Modeler/work/Cri/templates/rootDomain/" . "config/")
+ ("/home/marin/Modeler/work/Dev/templates/domains/" . "domains.bootstrap/")
+ ("/home/marin/Modeler/work/Dev/templates/" . "plugins/")
+ ("/home/marin/Modeler/work/Dev/build/" . "tas/")
+ ("/home/marin/Modeler/work/Dev/" . "templates/")
+ ("/home/marin/Documents/Esport/" . "communication.md/")
+ ("/home/marin/Documents/Projects/" . "Uphoto/")
+ ("/home/marin/Documents/" . "website/")
+ ("/home/marin/Modeler/work/Cri/templates/clientSpecific/" . "client.bootstrap/")
+ ("/" . "home/")
+ ("/home/marin/Modeler/work/Pickup/templates/clientSpecific/" . "client.bootstrap/")
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/js/" . "modelets/")
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/" . "js/")
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/kaava/" . "scripts/")
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/" . "kaava/")
+ ("/home/marin/Modeler/work/Pickup/templates/" . "plugins/")
+ ("/home/marin/Modeler/work/Pickup/" . "templates/")
+ ("/home/marin/Modeler/work/Cri/templates/plugins/kaava/scripts/js/" . "modelets/")
+ ("/home/marin/Modeler/work/Cri/templates/plugins/kaava/scripts/" . "js/")
+ ("/home/" . "marin/")
+ ("/home/marin/" . ".emacs.d/")
+ ("/home/marin/Modeler/work/Cri/templates/plugins/ModelerCLI/" . "scripts/")
+ ("/home/marin/Modeler/work/Cri/templates/plugins/kaava/" . "scripts/")
+ ("/home/marin/Modeler/work/Cri/templates/plugins/" . "kaava/")
+ ("/home/marin/Modeler/work/Cri/templates/" . "clientSpecific/")
+ ("/home/marin/Modeler/work/Cri/" . "templates/")
+ ("/home/marin/Modeler/work/" . "Pickup/")
+ ("/home/marin/Modeler/" . "work/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/marin/.emacs.d/"
+ "/home/marin/"
+ "/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/js/modelets/"
+ "/home/marin/Modeler/work/Pickup/templates/clientSpecific/client.bootstrap/"
+ "/home/marin/tmp/"
+ "/home/marin/Modeler/work/Pickup/templates/plugins/kaava/"
+ "/home/marin/Documents/website/app/views/posts/"
+ "/home/marin/Documents/website/app/assets/stylesheets/components/"
+ "/home/marin/Documents/website/app/views/welcome/"
+ "/home/marin/Documents/website/app/assets/stylesheets/"
+ "/home/marin/Modeler/work/Pickup/templates/domains/domains.bootstrap/"
+ "/home/marin/php/"
+ "/home/marin/Documents/website/app/controllers/"
+ "/home/marin/Documents/website/app/views/sessions/"
+ "/home/marin/Documents/website/app/views/galleries/"
+ "/home/marin/Documents/website/app/views/application/"
+ "/home/marin/Documents/website/db/"
+ "/home/marin/Documents/website/config/"
+ "/home/marin/org/notes/"
+ "/home/marin/Documents/enioka/web/html/"
+ "/home/marin/Modeler/modeler-deploy/html/"
+ "/home/marin/goprojects/src/github.com/FaXaq/gjp/"
+ "/home/marin/Modeler/modeler-deploy/"
+ "/home/marin/Modeler/work/Pickup/templates/clientSpecific/client.bootstrap/wiki/"
+ "/home/marin/org/perso/"
+ "/home/marin/Documents/website/app/models/"
+ "/home/marin/Documents/website/app/helpers/"
+ "/home/marin/Documents/website/app/views/users/"
+ "/home/marin/Documents/website/app/views/photos/"
+ "/home/marin/Documents/website/app/assets/javascripts/"
+ "/home/marin/Documents/website/"
+ "/home/marin/Documents/website/db/migrate/"
+ "/home/marin/Documents/website/config/initializers/"
+ "/home/marin/Documents/website/app/views/categories/"
+ "/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/css/"
+ "/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/js/base/"
+ "/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/js/perspectives/"
+ "/home/marin/.emacs.d/nxml-mode/"
+ "/home/marin/Documents/website/app/views/layouts/"
+ "/home/marin/Documents/website/app/assets/stylesheets/libs/retrospect/libs/"
+ "/home/marin/Documents/website/app/assets/stylesheets/components/require/"
+ "/home/marin/Documents/website/app/assets/stylesheets/libs/retrospect/components/"
+ "/home/marin/Documents/website/app/assets/stylesheets/libs/retrospect/"
+ "/home/marin/Documents/website/app/assets/stylesheets/libs/retrospect/base/"
+ "/home/marin/Documents/website/app/assets/stylesheets/libs/retrospect/layout/"
+ "/home/marin/Documents/website/config/environments/"
+ "/home/marin/Documents/website/public/"
+ "/home/marin/Documents/belleville-en-vrai/"
+ "/home/marin/Documents/belleville-en-vrai/js/"
+ "/home/marin/Modeler/work/Pickup/build/tas/WebContent/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ ".emacs"
+ "FilterGraphModelet.js"
+ "8_8_2client_rules_filter.xml"
+ "8_2_1client_templates.xml"
+ "8_8_2client_rules_graph_ApplicationFlowUses.xml"
+ "8_8_2client_rules_graph_ApplicationFlows.xml"
+ "toto.xml"
+ "08_3kaava_maps_view.xml"
+ "08_3kaava_browse_maps_view.xml"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/marin/.emacs.d/" (22283 42004 562752 122000) "#ido.last#" "ido.last~" "ag.el" "tramp" "session.103fafe17aad722c8144066267347786600000050910042" "auto-save-list/" "elpa/" "./" "../" "neotree/" "nxml-mode/" "url/" "smex-items" "eshell/" "ac-comphist.dat" "monokai-theme.el" "go-autocomplete.el" "init.el" "init.el~" "ido.last" ".org-id-locations" ".git/" "smooth-scroll.el" "hl-tags-mode.el")
+
+ ("/home/marin/" (22283 41987 50469 251000) ".zcompdump" "ta/" ".gem/" "test/" "goprojects/" ".gyazo.id" ".vmware/" ".atom/" ".bash_logout" "Public/" "aca/" ".wine/" ".mysql_history" "org/" ".slime/" "Images/" "Sublime Text 2/" ".kodi/" "wip/" ".eclipse/" ".viminfo" ".visualvm/" ".bashrc" ".java/" "Téléchargements/" ".gnupg/" ".TelegramDesktop/" ".heroku/" ".Skype/" ".sbclrc" "4ERP_GE_158034.pdf" ".netrc" "quicklisp/" ".saves/" "tmp/" "4ERP_GE_158034.docx" ".ICEauthority" ".bashrc~" ".fontconfig/" ".mozilla/" ".ssh/" ".local/" ".dbshell" "fontconfig/" "yeah.tar.gz" "vmware/" "./" ".racket/" "Modèles/" "rpmbuild/" "eclipse_workspace/" ".gitconfig" "Vidéos/" "../" ".cache/" ".emacs" ".smartgit/" ".WebStorm10/" ".bash_profile" ".gphoto/" ".i3/" "Programs/" ".gnome2/" ".thumbnails/" ".bash_history" "Updater" ".mplayer/" "Bureau/" ".emacs.d/" ".fehbg" ".sane/" ".m2/" ".putty/" "matrix/" "Musique/" ".AndroidStudio/" "Notebooks/" "Telegram" ".thunderbird/" ".p2/" ".hplip/" "Documents/" ".dbus/" ".pki/" "bin/" ".zshrc" ".gksu.lock" "etc/" "workbench/" "conf/" "alien/" ".swt/" "SHiELD/" ".pip/" ".emacs~" ".passenger/" ".composer/" ".gimp-2.8/" ".Trash/" ".lesshsQ" "4VIP_158034_AsteriskConfigs.tar.gz" ".psql_history" ".config/" ".gnome/" ".inputrc" "html/" ".mongorc.js" ".npm/" ".subversion/" "4VIP.tar" ".gradle/" ".yEd/" ".esd_auth" "php/" ".byebug_hist" ".android/" "Modeler/")
+
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/js/" (21901 9793 892892 612000) "perspectives/" "./" "tests/" "../" "base/" "modelets/")
+
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/" (21901 9793 863892 178000) "css/" "./" "../" "js/")
+
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/" (22018 27885 264097 383000) "OfficeEnabler/" "kaava/" "workbench-deploy.py" ".gitignore" "./" "../" "ModelerCLI/" ".git/" "scripts/" "Importers/")
+
+ ("/home/marin/Modeler/work/Pickup/templates/clientSpecific/client.bootstrap/" (22283 24773 34314 197000) "8_8_2client_rules_matrix_ProcessWithApplication.xml" "8_9kaava_browse_double_conditional_grid.xml" "wiki/" "8_8_2client_rules_TechnicalApplicationModules.xml" "8_8_2client_rules_graph.ProcessWithFunction.xml" "8_8_2client_rules_grid_allTechnicalApplicationModules.xml" "8_8_2client_rules_graph_AllApplicationsAndModules.xml" "8_8_2client_rules_graph_ApplicationFlows.xml" "./" "8_8_2client_rules_graph_ProcessWithApplicationGraph.xml" "8_8_2client_rules_graph_ApplicationAndItsModules.xml" "8_8_2client_rules_graph_ApplicationOverview.xml" "8_8_2client_rules_overload.xml" "../" "8_0client_component_structure.xml" "8_3client_domain.xml" "8_8_2client_rules_graph_ApplicationFlowUses.xml" "8_4client_security.xml" "8_8_2client_rules_matrix_FunctionByApplicationMatrix.xml" "8_8_2client_rules_grid_allApplicationModulesGrid.xml" "8_2_1client_templates.xml" "8_9script_export_CSV.xml" "8_8_2client_rules_graph_BusinessModules.xml" "scripts/" "8_2_2client_components.xml" "8_8_2client_rules_filter.xml" "8_8_2client_rules_jqgrid_HostnameGrid.xml" "8_1client_dictionary.xml")
+
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/js/perspectives/" (22174 20753 566742 304000) "BrowsePerspective.js" "TeePerspective.js" "TestPerspective.js" "SinglePanePerspective.js" "FullPagePerspective.js" "DocumentationPerspective.js" "./" "MapLayoutPerspective.js" "ComponentsPerspective.js" "LayoutPerspective.js" "../" "DoubleGridLayoutPerspective.js" "OneThirdPerspective.js" "DictionaryPerspective.js" "WelcomePerspective.js" "QuarterPerspective.js" "MainPerspective.js" "DomainsPerspective.js" "HalfsPerspective.js")
+
+ ("/home/marin/php/" (22278 44380 816104 757000) "index.php" "header.php" "./" "../")
+
+ ("/home/marin/Modeler/" (22048 48566 571440 147000) "work/" "apache-tomcat-8.0.15/" "./" "../" "1234567890/" "modeler-deploy/" ".idea/" "plugins.zip" "plugins/")
+
+ ("/home/marin/Documents/website/app/views/sessions/" (22278 25902 535166 697000) "./" "new.html.erb" "../" "_error_messages.html.erb")
+
+ ("/home/marin/Documents/website/app/views/layouts/" (22236 40439 112377 541000) "application.html.erb" "./" "../")
+
+ ("/home/marin/Documents/website/app/views/account_activations/" (22257 29836 23167 896000) "./" "../")
+
+ ("/home/marin/Documents/website/app/views/galleries/" (22278 24502 372999 151000) "_banner.html.erb" "edit.html.erb" "index.html.erb" "./" "new.html.erb" "../" "_presentation.html.erb" "show.html.erb" "_error_messages.html.erb" "_gallery.html.erb")
+
+ ("/home/marin/org/notes/" (22210 57182 599874 75000) "rnd.org" "aca/" "pickup.org" "export_Cartographie_769AA047591F7EE5E83C562B64F64682_Cartographie_.zip" "gdf.org_archive" "ACA.org" "enioka.org" "./" "criteo.org_archive" "gdf.org" "../" "data/" "shield.org" "criteo.org" "gdf.html" "4PJT.org" "criteo.html" "eram.org" "shield.html" "rnd.html")
+
+ ("/home/marin/Documents/website/app/assets/stylesheets/libs/retrospect/" (22230 64311 941121 323000) "layout/" "font-awesome.scss" "./" "../" "components/" "base/" "libs/" "retrospect.scss" "ie9.scss")
+
+ ("/home/marin/Documents/website/app/assets/stylesheets/libs/retrospect/components/" (22229 60484 341393 756000) "_section.scss" "_list.scss" "_form.scss" "_image.scss" "_image-grid.scss" "./" "../" "_box.scss" "_button.scss" "_icon.scss" "_feature.scss" "_wrapper.scss" "_table.scss")
+
+ ("/home/marin/Documents/website/app/assets/stylesheets/libs/retrospect/libs/" (22229 60484 340393 740000) "_skel.scss" "./" "../" "_vars.scss" "_functions.scss" "_mixins.scss")
+
+ ("/home/marin/Documents/website/db/" (22270 18271 200685 876000) "development.sqlite3" "./" "migrate/" "../" "schema.rb" "seeds.rb" "test.sqlite3")
+
+ ("/home/marin/Documents/website/app/assets/stylesheets/components/" (22278 11173 465961 654000) "text.scss" "article.scss" "header.scss" "dropdown.scss" "feature.scss" "form.scss" "navabar.scss" "./" "require/" "../" "placement.scss" "thumbnail.scss" "banner.scss" "galleries.scss" "img.scss")
+
+ ("/home/marin/Documents/enioka/" (22267 60821 731666 815000) "old-pictures/" "web/" "../" "./")
+
+ ("/home/marin/Documents/" (22270 14030 464319 209000) "npm-debug.log" "100x100Shieldwhite.xcf" "website/" "matrix.xcf" "grid_infra.xcf" "JSFight/" "youtube-cover2.xcf" "belleville-en-vrai/" "enioka/" "./" "windows_shared_folder/" "Projects/" "../" "site-shield/" "Supinfo/" "iso_vm/" "TestCSSTemplate/" "vmware_patch/" "smartgit/" "screen_4ERP/" "infra.xcf")
+
+ ("/home/marin/Documents/website/app/views/application/" (22270 19563 867738 144000) "_presentation_post.html.erb" "_header.html.erb" "./" "_presentation_event.html.erb" "_footer.html.erb" "_preview_post.html.erb" "../" "_back.html.erb" "_presentation.html.erb" "_error_messages.html.erb" "_gallery.html.erb")
+
+ ("/home/marin/tmp/" (22269 26738 2624 712000) "toto.js" "npm-10198-7lKnDPWV/" "viewstate.xml" "toto.xml" "index.html~" "test.js" "dev/" "toto.html" "#test.xml#" "npm-12165-Pt4uqADs/" "test.js~" "toto.py~" "index.html" "toto.py" "npm-13051-neAIEdjl/" "./" "../" "toto.go" "toto2.xml" "sncf.wav" "test-entretien/" "npm-9550-OqOCD-B5/" "#toto.xml#" "toto.txt" "toto.csv" "toto.xml~" "#index.html#")
+
+ ("/home/marin/Modeler/work/Pickup/templates/domains/" (21901 9646 714687 436000) "domains.bootstrap/" ".gitignore" "./" "../" ".git/")
+
+ ("/home/marin/Modeler/work/Pickup/templates/" (21901 9795 640918 803000) "./" "../" "domains/" "clientSpecific/" "archi/" "SOI/" "rootDomain/" "plugins/")
+
+ ("/home/marin/Modeler/work/Pickup/" (21901 9837 55539 320000) "./" "../" "heap/" "build/" "templates/")
+
+ ("/home/marin/Documents/enioka/web/html/css/" (22266 17617 814514 898000) "main.css" "./" "../" "it-live-maps.css" "main-min.css" "it-live-maps-min.css")
+
+ ("/home/marin/Documents/enioka/web/html/" (22266 17617 857515 677000) "medias/" "images/" "css/" "index.html" "robots.txt" "./" "../" "images-it/" "js/" "it-live-maps.html" "sitemap.xml")
+
+ ("/home/marin/Documents/enioka/web/" (22266 17595 354108 404000) ".gitignore" "./" "../" ".git/" "html/")
+
+ ("/home/marin/Documents/website/app/" (22205 61034 447662 688000) "assets/" "controllers/" "views/" "models/" "./" "../" "helpers/" "mailers/")
+
+ ("/home/marin/Modeler/work/" (22267 53655 150849 808000) "NewEram/" "Ned/" "Cri/" "./" "Dev/" "../" "stable/" "Pickup/" "Eram/" "TestCriCleanUp/")
+
+ ("/home/marin/Modeler/modeler-deploy/html/" (21651 7478 413505 543000) "style.css" "dashboard_header.html" "./" "../" "dashboard_footer.html")
+
+ ("/home/marin/goprojects/src/github.com/FaXaq/gjp/" (22167 56807 519879 510000) "LICENSE.md" "./" "../" "README.md" "gjp.go" ".git/")
+
+ ("/home/marin/goprojects/src/github.com/FaXaq/" (22158 52118 791053 667000) "gojob/" "gjp/" "./" "../" "coreingo/")
+
+ ("/home/marin/goprojects/src/github.com/" (22181 58233 911636 832000) "FaXaq/" "./" "dougm/" "../" "nsf/" "spf13/" "zquestz/")
+
+ ("/home/marin/goprojects/src/" (22141 14617 404271 295000) "github.com/" "./" "../")
+
+ ("/home/marin/goprojects/" (22148 7575 981591 939000) "src/" "pkg/" "./" "../" "bin/")
+
+ ("/home/marin/Modeler/modeler-deploy/" (22267 35528 117572 925000) "modeler-configuration.pyc" ".gitignore" "./" "../" "modeler-configuration.py" ".git/" "outdir/" "Eram/" "html/" "modeler-deploy.py")
+
+ ("/home/marin/Modeler/work/Pickup/templates/clientSpecific/client.bootstrap/wiki/" (22266 35069 476941 660000) "client_objects.wiki" "client_templates.wiki" "./" "../" "home.wiki")
+
+ ("/home/marin/Modeler/work/Pickup/templates/clientSpecific/" (22266 35059 460761 558000) ".gitignore" "client.bootstrap/" "./" "../" ".git/")
+
+ ("/home/marin/org/perso/data/19/b42759-1ffc-4885-9702-1c2128105d6c/" (21912 22085 754342 21000) "calendar.org" "./" "../")
+
+ ("/home/marin/org/perso/data/19/" (21912 22085 754342 21000) "./" "../" "b42759-1ffc-4885-9702-1c2128105d6c/")
+
+ ("/home/marin/org/perso/data/" (21912 22085 754342 21000) "19/" "./" "../")
+
+ ("/home/marin/org/perso/" (22101 61079 469130 104000) "HowTo.org" "blank.org" "calendar.org" "spr.org" "./" "../" "data/" "shield.org")
+
+ ("/home/marin/Documents/website/app/assets/fonts/" (22229 54774 960878 463000) "FontAwesome.otf" "fontawesome-webfont.eot" "fontawesome-webfont.woff2" "fontawesome-webfont.svg" "./" "../" "fontawesome-webfont.ttf" "fontawesome-webfont.woff")
+
+ ("/home/marin/Documents/website/test/controllers/" (22257 32434 89061 465000) "sessions_controller_test.rb" "post_parts_controller_test.rb" "./" "users_controller_test.rb" "../" "categories_controller_test.rb" ".keep" "welcome_controller_test.rb" "galleries_controller_test.rb" "photos_controller_test.rb" "posts_controller_test.rb")
+
+ ("/home/marin/Documents/website/test/fixtures/" (22257 32434 90061 480000) "photos.yml" "users.yml" "./" "posts.yml" "../" "galleries.yml" ".keep" "categories.yml" "post_parts.yml")
+
+ ("/home/marin/Documents/website/test/models/" (22257 32434 91061 496000) "gallery_test.rb" "post_part_test.rb" "post_test.rb" "./" "category_test.rb" "../" "user_test.rb" "photo_test.rb" ".keep")
+
+ ("/home/marin/Documents/website/public/" (22257 33716 758904 787000) "assets/" "system/" "javascripts/" "500.html" "422.html" "robots.txt" "./" "favicon.ico" "../" "404.html")
+
+ ("/home/marin/Documents/website/app/assets/stylesheets/libs/retrospect/base/" (22229 60484 340393 740000) "./" "../" "_typography.scss" "_page.scss")
+
+ ("/home/marin/Documents/website/app/views/categories/" (22257 32434 77061 276000) "destroy.html.erb" "edit.html.erb" "index.html.erb" "./" "_category_presentation.html.erb" "new.html.erb" "_preview_post.html.erb" "../" "_presentation.html.erb" "show.html.erb")
+
+ ("/home/marin/Documents/website/config/initializers/" (22257 32434 84061 386000) "hermitage.rb" "mime_types.rb" "filter_parameter_logging.rb" "inflections.rb" "./" "session_store.rb" "../" "wrap_parameters.rb" "backtrace_silencers.rb" "assets.rb" "cookies_serializer.rb")
+
+ ("/home/marin/Documents/website/db/migrate/" (22257 32436 921105 969000) "20160303102312_create_users.rb" "20160303103426_add_index_to_users_email.rb" "20160322170146_add_activation_to_users.rb" "20160306145424_add_firstname_and_lastname_to_users.rb" "20160317134044_add_admin_to_user.rb" "20160224154413_create_posts.rb" "20160309133700_add_attachment_avatar_to_posts.rb" "20160317143409_add_published_to_post.rb" "20160317123557_add_category_to_post.rb" "./" "20160306213525_create_post_parts.rb" "../" "20160306160717_add_user_reference_to_posts.rb" "20160322163924_add_remember_digest_to_users.rb" "20160317115806_create_photos.rb" "20160303103745_add_password_digest_to_users.rb" "20160317091936_create_categories.rb" "20160306160945_add_index_to_posts.rb" "20160317120101_create_galleries.rb" "20160309133602_add_attachment_avatar_to_users.rb")
+
+ ("/home/marin/Documents/website/app/views/users/" (22257 32434 83061 370000) "edit.html.erb" "./" "new.html.erb" "../" "_back.html.erb" "_presentation.html.erb" "show.html.erb" "_error_messages.html.erb")
+
+ ("/home/marin/Documents/website/bin/" (22205 61048 622891 732000) "rails" "rake" "spring" "./" "../" "setup" "bundle")
+
+ ("/home/marin/Documents/website/app/views/welcome/" (22257 32434 83061 370000) "index.html.erb" "./" "../")
+
+ ("/home/marin/Documents/website/app/views/photos/" (22257 32434 79061 307000) "index.html.erb" "./" "new.html.erb" "../" "show.html.erb")
+
+ ("/home/marin/Documents/website/app/controllers/" (22257 32436 927106 63000) "galleries_controller.rb" "./" "welcome_controller.rb" "../" "photos_controller.rb" "account_activations_controller.rb" "categories_controller.rb" "post_parts_controller.rb" "posts_controller.rb" "sessions_controller.rb" "application_controller.rb" "users_controller.rb" "concerns/")
+
+ ("/home/marin/Documents/website/app/models/" (22257 32436 920105 953000) "photo.rb" "category.rb" "post_part.rb" "post.rb" "./" "gallery.rb" "../" "user.rb" ".keep" "concerns/")
+
+ ("/home/marin/Documents/website/app/views/posts/" (22257 32434 81061 339000) "edit.html.erb" "index.html.erb" "./" "new.html.erb" "../" "_back.html.erb" "_presentation.html.erb" "show.html.erb" "_error_messages.html.erb")
+
+ ("/home/marin/Documents/website/app/views/" (22257 32434 79061 307000) "posts/" "categories/" "photos/" "application/" "layouts/" "./" "account_activations/" "post_parts/" "../" "welcome/" "galleries/" "sessions/" "users/")
+
+ ("/home/marin/Documents/website/app/assets/javascripts/" (22257 32436 918105 921000) "welcome.coffee" "application.js" "galleries.coffee" "post_parts.coffee" "./" "account_activations.coffee" "../" "libs/" "posts.coffee" "users.coffee" "photos.coffee" "categories.coffee" "sessions.coffee")
+
+ ("/home/marin/Documents/website/app/helpers/" (22257 32436 926106 47000) "sessions_helper.rb" "application_helper.rb" "account_activations_helper.rb" "photos_helper.rb" "./" "posts_helper.rb" "../" "galleries_helper.rb" "categories_helper.rb" "users_helper.rb" "welcome_helper.rb" "post_parts_helper.rb")
+
+ ("/home/marin/Documents/website/config/" (22257 32436 926106 47000) "initializers/" "locales/" "./" "../" "secrets.yml" "application.rb" "routes.rb" "database.yml" "environments/" "boot.rb" "environment.rb")
+
+ ("/home/marin/Documents/website/" (22257 32434 62061 40000) "README.rdoc" "test/" "Gemfile" "Rakefile" ".gitignore" "log/" "tmp/" "./" "../" "db/" "public/" "lib/" "README.md" "app/" "Gemfile.lock" "bin/" "vendor/" "config.ru" ".git/" "config/")
+
+ ("/home/marin/Documents/website/app/assets/stylesheets/" (22257 32436 919105 937000) "account_activations.scss" "photos.scss" "categories.scss" "./" "posts.scss" "application.scss" "welcome.scss" "../" "components/" "libs/" "users.scss" "sessions.scss" "post_parts.scss" "galleries.scss")
+
+ ("/home/marin/org/notes/data/f5/744085-b8f0-4455-95de-43173977667b/" (21910 32990 587409 495000) "./" "../" "criteo.org")
+
+ ("/home/marin/org/notes/data/f5/" (21910 32990 586409 484000) "744085-b8f0-4455-95de-43173977667b/" "./" "../")
+
+ ("/home/marin/org/notes/data/" (21910 32990 585409 472000) "./" "../" "f5/")
+
+ ("/home/marin/Documents/website/app/assets/" (22229 54707 283821 713000) "javascripts/" "fonts/" "images/" "./" "../" "stylesheets/")
+
+ ("/home/marin/Documents/website/vendor/assets/stylesheets/" (22205 61034 476663 156000) "./" "../" ".keep")
+
+ ("/home/marin/Documents/website/vendor/assets/javascripts/" (22205 61034 476663 156000) "./" "../" ".keep")
+
+ ("/home/marin/Documents/website/vendor/assets/" (22205 61034 476663 156000) "javascripts/" "./" "../" "stylesheets/")
+
+ ("/home/marin/Documents/website/app/assets/javascripts/libs/retrospect/" (22229 60680 291942 628000) "skel.js" "retrospect.js" "util.js" "ie/" "./" "../")
+
+ ("/home/marin/Documents/website/app/assets/javascripts/libs/" (22229 60680 287942 568000) "./" "../" "retrospect/")
+
+ ("/home/marin/org/" (22218 58545 480513 37000) "./" "../" "todo/" "perso/" "notes/" "todo.org" "resources/")
+
+ ("/home/marin/Documents/TestCSSTemplate/" (22229 52552 860310 94000) "assets/" "images/" "index.html" "./" "LICENSE.txt" "../" "generic.html" "elements.html")
+
+ ("/home/marin/Documents/belleville-en-vrai/" (22248 25089 308525 493000) "fonts/" "images/" "css/" "index.html" "./" "../" "img/" "README.md" "js/" ".git/")
+
+ ("/home/marin/Documents/website/config/environments/" (22249 24104 221694 900000) "development.rb" "./" "../" "test.rb" "production.rb")
+
+ ("/home/marin/Documents/website/app/assets/stylesheets/libs/retrospect/layout/" (22249 24104 216694 822000) "_banner.scss" "_header.scss" "./" "../" "_footer.scss" "_nav.scss" "_main.scss")
+
+ ("/home/marin/Documents/website/app/assets/stylesheets/components/require/" (22249 24104 216694 822000) "_size.scss" "_skel.scss" "./" "../" "_vendor.scss")
+
+ ("/home/marin/Modeler/work/Pickup/templates/domains/domains.bootstrap/" (22222 49688 847937 45000) "21_1architecture_dictionary.xml" "60_5urbanism_templates_business-with-applications.xml" "23_5process_templates.xml" "35_7masterdata_rules.xml" "wiki/" "41_4urbanismTech_domain.xml" "41_7urbaTech_rules.xml" "30_4urbanism_domain.xml" "35_7masterdata_rules_matrix_ApplicationPerspectiveMatrix.xml" "20_5application_templates.xml" "30_7urbanism_rules_matrix_ApplicationAndDomainMatrix.xml" "41_5urbaTech_templates.xml" "23_1process_dictionary.xml" "10_7all_rules.xml" "./" "../" "30_5urbanism_templates.xml" "22_7business_rules.xml" "34_7urbanism_template_process.xml" "20_1urbanism_dictionary.xml" "21_4technical_domain.xml" "20_7application_rules.xml" "23_7process_rules_graph_ProcessWithActivity.xml" "35_4masterdata_domain.xml" "34_4businessProcess_domain.xml" "30_7urbanism_template_scenario.xml" "61_5urbanismTech_rules_graph_ApplicationArchitecture.xml" "20_4application_domain.xml" "35_5masterdata_templates.xml" "35_1masterdata_dictionary.xml" "10_0generic_components.xml" "23_4process_domain.xml" "22_4business_domain.xml" "resources/" "22_5business_templates.xml")
+
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/kaava/" (22248 15962 776605 466000) "test/" "08_3kaava_doc_view.xml" "08_3kaava_browse_maps_view.xml" "08_3kaava_components_commander.xml" "08_5kaava_user_gui.xml" "generate_jsdoc.sh" "08_3kaava_maps_view.xml" "08_3kaava_browse_view.xml" "./" "08_3kaava_matrix_view.xml" "08_3kaava_main_view.xml" "../" "tools/" "07_7kaava_rules.xml" "08_3kaava_welcome_view.xml" "08_3kaava_default_view.xml" "doc_test/" "08_5kaava_user_browse_gui.xml" "jshint/" "08_3kaava_maps_view_v2.xml" "08_3kaava_graph.xml" "07_0kaava.xml" "08_3kaava_navigation_view.xml" "include/" "scripts/" "08_7domain_rules.xml" "08_3kaava_jqgrid_view.xml" "resources/")
+
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/js/modelets/" (22248 15962 773605 419000) "HistoryModelet.js" "MatrixModelet_old.js" "ViewXMLModelet.js" "ModifyDocumentModelet.js" "LayoutEngine.js" "JsTreeModelet.js" "PortletModelet.js" "go-debug.js" "DocModelet.js" "graph.js" "GraphGoJsModeletResources.js" "NavigationModelet.js" "go.js" "HypothesisModelet.js" "./" "ij.min.js" "SimpleTreeModelet.js" "PropertiesEditorModelet.js" "SimpleGridModelet.js" "../" "GraphGoJsModelet.js" "JqGridModelet.js" "MatrixModelet_old_final.js" "old_modelet/" "BreadcrumbModelet.js" "MenuBarModelet.js" "MatrixModeletComponents.js" "MatrixModelet.js" "FileSaver.js" "GraphModelet.js" "ActionModelet.js" "LaunchPanelModelet.js" "FilterGraphModelet.js" "EventsListenerXMLModelet.js")
+
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/js/base/" (22248 15962 731604 765000) "Event.js" "PerspectiveManager.js" "Rules.js" "Modelet.js" "Session.js" "AbstractGridModelet.js" "View.js" "Perspective.js" "Inheritance.js" "./" "Utils.js" "ResourceManager.js" "../" "DynamicAttributesManager.js" "ModeletTools.js" "Logger.js" "Dialog.js" "Wrappers.js" "matrix.js" "ModeletGUI.js" "AbstractGraphModelet.js" "Modeler.js" "AbstractTreeModelet.js")
+
+ ("/home/marin/Modeler/work/Pickup/templates/plugins/kaava/scripts/css/" (22248 15962 728604 718000) "./" "../" "webclientv2.css" "bootstrap/" "webclient.css")
+
+ ("/home/marin/Documents/website/app/views/post_parts/" (22249 24104 219694 869000) "index.html.erb" "./" "new.html.erb" "../")
+
+ ("/home/marin/tmp/dev/" (22182 9623 955817 364000) "test-c3.js" "test-ij.html" "c3/" "./" ".DS_Store" "../" "test-c3.html" "test-ij.js" "ij.js/" "CSVStyleDataProvider.js" "data.tsv")
+
+ ("/home/marin/Documents/belleville-en-vrai/js/" (22242 46315 163329 128000) "jquery/" "main.js" "./" "../" "bootstrap/")
+
+ ("/home/marin/Documents/website/app/controllers/concerns/" (22205 61034 447662 688000) "./" "../" ".keep")
+
+ ("/home/" (21650 64366 299947 577000) "./" "../" "marin/" "lost+found/")
+
+ ("/home/marin/.eclipse/" (21972 17386 344848 221000) "org.eclipse.recommenders/" "./" "org.eclipse.oomph.p2/" "../" "org.eclipse.oomph.setup/")
+
+ ("/home/marin/.emacs.d/nxml-mode/" (22246 32604 597867 437000) "nxml-mode.el" "rng-util.el" "nxml-outln.el" "rng-nxml.el" "nxml-parse.elc" "nxml-glyph.el" "nxml-mode.info" "rng-parse.el" "nxml-outln.elc" "rng-valid.elc" "README" "test.invalid.xml" "rng-xsd.el" "test.valid.xml" "nxml-maint.elc" "nxml-mode.elc" "schema/" "nxml-enc.elc" "nxml-mode.rnc" "nxml-rap.elc" "nxml-util.elc" "nxml-parse.el" "nxml-glyph.elc" "rng-valid.el" "TODO" "rng-dt.elc" "rng-uri.el" "./" "rng-auto.el" "rng-pttrn.el" "rng-cmpct.elc" "../" "rng-parse.elc" "COPYING" "xsd-regexp.elc" "VERSION" "rng-pttrn.elc" "rng-match.el" "nxml-rap.el" "dir" "rng-loc.el" "rng-maint.elc" "NEWS" "rng-loc.elc" "nxml-ns.elc" "Makefile" "nxml-mode.texi" "char-name/" "rng-maint.el" "nxml-ns.el" "xsd-regexp.el" "rng-xsd.elc" "rng-dt.el" "nxml-maint.el" "rng-nxml.elc" "nxml-uchnm.el" "xmltok.elc" "rng-util.elc" "nxml-mode.xml" "rng-uri.elc" "nxml-uchnm.elc" "rng-cmpct.el" "nxml-util.el" "nxml-enc.el" "xmltok.el" "rng-match.elc")
+
+ ("/home/marin/Documents/website/vendor/" (22205 61034 476663 156000) "assets/" "./" "../")
+
+ ("/home/marin/Documents/website/app/assets/images/" (22241 40019 47829 185000) "banner.jpg" "thumb/" "medium/" "banner.png" "./" "../" ".keep" "logoshield-black.svg" "logoshield-cercle.svg")
+
+ ("/home/marin/Modeler/work/Cri/" (22173 6030 845738 393000) "./" "../" "heap/" "build/" "templates/")
+
+ ("/home/marin/Documents/website/app/assets/images/medium/" (22240 21038 714204 366000) "./" "../" "user/")
+
+ ("/home/marin/matrix/src/js/" (22222 52189 2478 196000) "ij.IIJDataProvider.js" "ij.Core.DataHeader.js" "ij.IIJRenderer.HTMLRenderer.js" "ij.IIJControllerUI.js" "ij.IIJRenderer.js" "defaultImplementations/" "ij.Core.js" "./" "../" "ij.IIJController.js" "ij.IIJDataProvider.Aggregator.js" "ij.Core.DataHeader.State.js" "ij.IIJRenderer.HTMLTemplate.js" "ij.Core.DataCell.js")
+
+ ("/home/marin/matrix/examples/hierarchicalExample/" (22222 50800 793600 851000) "hierarchicalExample.js" "index.html" "./" "../")
+
+ ("/home/marin/Modeler/work/Pickup/templates/rootDomain/WebContent/images/" (22237 19969 878810 409000) "pickup.png" "Kaava.png" "ui-icons_cd0a0a_256x240.png" "ui-icons_2e83ff_256x240.png" "ui-bg_glass_55_fbf9ee_1x400.png" "oxygen/" "sprite-menu.png" "ariane-arrow.png" "ariane.png" "ui-icons_222222_256x240.png" "animated-overlay.gif" "logos_criteo/" "crossword.png" "./" "bg.png" "../" "logo.png" "ui-bg_glass_95_fef1ec_1x400.png" "map-header.png" "ui-bg_glass_75_dadada_1x400.png" "ui-bg_highlight-soft_75_cccccc_1x100.png" "ui-bg_flat_0_aaaaaa_40x100.png" "ui-bg_glass_65_ffffff_1x400.png" "border-doc.png" "doc-header.png" "ui-icons_454545_256x240.png" "ui-bg_flat_75_ffffff_40x100.png" "ui-icons_ffffff_256x240.png" "header.png" "tree-bg.png" "ENIOKA-logo-micro.png" "ui-icons_888888_256x240.png" "ui-bg_glass_75_e6e6e6_1x400.png")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

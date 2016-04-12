@@ -1,5 +1,6 @@
 ;;disable splash screen
 (setq inhibit-startup-message t)
+(setq emacs-path "~/.emacs.d/")
 
 (set-face-attribute 'default nil :height 100)
 
@@ -10,6 +11,14 @@
 (defalias 'redo 'undo-tree-redo)
 (global-set-key (kbd "C-z") 'undo)
 (global-set-key (kbd "C-S-z") 'redo)
+
+;; Show trailing whitespace and tabs
+(require 'whitespace)
+(setq whitespace-style '(face tabs tab-mark trailing))
+(global-whitespace-mode t)
+(custom-set-faces
+ '(whitespace-trailing ((t (:background "dark orange"))))
+)
 
 ;;disable menu-bar & tool-bar
 (tool-bar-mode -1)
@@ -132,6 +141,8 @@ version-control t) ; use versioned backups
 (add-hook 'prog-mode-hook 'company-mode)
 
 (require 'org)
+;; Truncated line
+(setq org-startup-truncated nil)
 (define-key global-map "\C-cl" 'org-store-link)
 (define-key global-map "\C-ca" 'org-agenda)
 (setq org-log-done t)
@@ -177,5 +188,40 @@ version-control t) ; use versioned backups
 ;;; remove trailing white spaces before save
 (add-hook 'before-save-hook 'delete-trailing-whitespace)
 
+;;; forecast api key
+(setq forecast-api-key "a480c32ee6905e59db2c91adf97791e9")
+(setq forecast-latitude 48.8567)
+(setq forecast-longitude 2.3508)
+(setq forecast-city "Paris")
+(setq forecast-country "France")
+
+;;; nxml-mode
+;path to where nxml is
+(set 'nxml-path (concat emacs-path "nxml-mode/"))
+
+(load (concat nxml-path "rng-auto.el"))
+
+ (add-to-list 'auto-mode-alist
+              (cons (concat "\\." (regexp-opt '("xml" "xsd" "sch" "rng" "xslt" "svg" "rss") t) "\\'")
+                    'nxml-mode))
+
+  (unify-8859-on-decoding-mode)
+
+    (setq magic-mode-alist
+	  (cons '("<＼＼?xml " . nxml-mode)
+                magic-mode-alist))
+
+(fset 'xml-mode 'nxml-mode)
+(fset 'html-mode 'nxml-mode)
+
+;;hl-tags
+(load (concat emacs-path "hl-tags-mode.el"))
+(require 'hl-tags-mode)
+   (add-hook 'sgml-mode-hook (lambda () (hl-tags-mode 1)))
+(add-hook 'nxml-mode-hook (lambda () (hl-tags-mode 1)))
+
+;;color-picker
+(global-set-key (kbd "C-c e c") #'zenity-cp-color-at-point-dwim)
+
 (provide 'init)
-;;; init.el ends here
+;;; init.el ends
